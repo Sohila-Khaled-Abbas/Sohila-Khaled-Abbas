@@ -6,8 +6,6 @@ My work integrates analytical rigor, technical proficiency, and a dedication to 
 
 📧 Email: agro.sohila.k.abbas@gmail.com
 
-🔗 LinkedIn: [Sohila Khaled Abbas](www.linkedin.com/in/sohilakhaledabbas)
-
 ## 💼 Professional Background
 - AI Career Essentials Program Trainee | ALX | Sept - Nov 2024
 Gained expertise in AI integration within data analysis, enabling data-driven decision-making for efficient problem-solving.
@@ -102,8 +100,10 @@ Critical Thinking for Better Judgment and Decision-Making – LinkedIn Learning,
 I'm always open to collaboration on impactful data analysis projects. Feel free to reach out!
 
 Email: agro.sohila.k.abbas@gmail.com
-LinkedIn: [Profile Link](www.linkedin.com/in/sohilakhaledabbas)
 
+<p>
+  <a href="https://www.linkedin.com/in/sohilakhaledabbas" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
 
 <!---
 Sohila-Khaled-Abbas/Sohila-Khaled-Abbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
