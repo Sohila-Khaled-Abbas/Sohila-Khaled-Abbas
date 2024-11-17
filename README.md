@@ -1,109 +1,82 @@
-# 👋 Welcome to My GitHub Profile!
-Hi, I'm Sohila Khaled Galal Abbas! I’m a Data Analyst and Quality Control Engineer passionate about combining data science with agriculture and food safety. 
-My work integrates analytical rigor, technical proficiency, and a dedication to improving quality standards across sectors.
+# 👩‍💻 Sohila Khaled Abbas
 
-📍 Location: Damietta, Egypt
+**Aspiring Data Analyst | Food Safety Inspector | Quality Control Engineer**
 
-📧 Email: agro.sohila.k.abbas@gmail.com
+Hello! I'm Sohila, a passionate data analyst transitioning from a food safety and quality control background into the exciting field of data analytics. With a solid foundation in analytical skills and a commitment to continuous learning, I'm driven by the power of data to solve problems and uncover actionable insights.
 
-## 💼 Professional Background
-- AI Career Essentials Program Trainee | ALX | Sept - Nov 2024
-Gained expertise in AI integration within data analysis, enabling data-driven decision-making for efficient problem-solving.
+---
 
-- Lead Researcher | Graduation Project on Post-Harvest Quality | Jan - July 2024
-Achieved a 30% reduction in post-harvest waste and enhanced data accuracy by leveraging predictive models, R, and Excel to monitor and optimize strawberry preservation.
+## 🚀 **Skills & Tools**
+### Programming & Data Analysis
+- **Languages**: Python, R, SQL
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 
-## 🌟 Skills
-- Technical: Python, R, SQL, Tableau, Power BI, Excel
-- Administrative: Organization, Attention to Detail, Problem-Solving
-- Collaborative: Teamwork, Leadership, Conflict Resolution
-- Languages: Arabic (Native), English (Advanced)
+### Data Visualization & Business Intelligence
+- **Tools**: Power BI, Tableau, Excel
 
-## 🎓 Education
-- BSc. in Agriculture Sciences | Damietta University
-Specialized in Horticulture, with hands-on experience in data analysis and food quality management.
+### Analytical Skills
+- Data Cleaning, Exploratory Data Analysis (EDA), Predictive Modeling
+- Statistical Testing, Trend Analysis, Data-Driven Insights
 
-## 📜 Certifications
-### 1. Data Analysis and Science
-CS109x: Introduction to Data Science with Python – HarvardX, edX Platform (Nov 2024)
+---
 
-Data-Analysis Fundamentals with Excel – Lynda Platform (Oct 30 – Nov 2, 2024)
+## 🎓 **Courses & Certifications**
+- **HarvardX**: CS109x - Data Science with Python
+- **Google**: Data Analytics Professional Certificate
+- **DataCamp**: SQL, Python, EDA, Data Cleaning in Python
+- **Maven Analytics**: Thinking Like an Analyst
+- **365 Data Science**: Introduction to Data and Data Science, R Programming
+- **Udemy**: Microsoft Excel Masterclass
 
-Database Fundamentals – MaharaTech Platform (Oct 14-19, 2024)
+*Full list of certifications available upon request.*
 
-Essentials of MS Excel: Formulas and Functions – UniAthena Platform (Sept 11, 2024)
+---
 
-The Complete Microsoft Excel 365 Masterclass – Udemy Platform (Aug 3, 2024)
+## 📂 **Projects**
+### 🛍 **Supermarket Sales Insights**
+- Created Power BI dashboards to analyze sales trends, customer demographics, and product performance.
+- Enabled actionable insights for better sales strategies.
 
-Introduction to Data and Data Science – 365 Data Science
+### 🎮 **Gaming Industry Insights**
+- Analyzed revenue and popularity trends of top-paid PC & Xbox games in 2020.
+- Delivered dashboards showcasing industry insights.
 
-Introduction to Python – 365 Data Science
+### ⚽ **UEFA European Championship Analysis**
+- Visualized Spain’s record-breaking success using Power BI dashboards and trend analyses.
 
-Introduction to Statistics – 365 Data Science
+### 📉 **Global Layoffs Data Analysis**
+- Cleaned a global layoffs dataset using MySQL and performed EDA to uncover trends and correlations.
+- Generated insights into the factors driving layoffs by industry and funding stages.
 
-Introduction to R Programming – 365 Data Science (Ongoing)
+### 🏡 **Airbnb Listings Analysis**
+- Built Tableau dashboards visualizing revenue trends, high-demand areas, and room type distribution for Seattle Airbnb listings.
 
-Introduction to Data – DataCamp (Nov 4, 2024)
+### 🚴 **Bike Sales Dashboard**
+- Designed an interactive Excel dashboard analyzing customer demographics and purchase behaviors.
 
-Understanding Data Visualization – DataCamp (Nov 4, 2024)
+---
 
-### 2. SQL and Database Management
-Introduction to Relational Databases in SQL – DataCamp (Nov 4, 2024)
+## 🌟 **Personal Insights**
+My transition into data analytics stems from my passion for uncovering patterns and solving problems through data. With a background in agricultural sciences and food safety, I've honed my analytical skills to ensure quality and efficiency. Now, I'm channeling these skills into the data world, eager to contribute to impactful projects that make a difference.
 
-Introduction to SQL – DataCamp (Nov 4, 2024)
+---
 
-Database Fundamentals – MaharaTech Platform (Oct 14-19, 2024)
+## 🎯 **Future Goals**
+- Achieve Power BI certification.
+- Deepen expertise in machine learning and advanced analytics.
+- Collaborate on projects tackling global challenges using data.
 
-### 3. Digital Marketing and Social Media
-AI for Digital Marketing: Applications in Online Business – MaharaTech Platform (Aug 17, 2024)
+---
 
-Fundamentals of Social Media Advertising – Coursera Platform, Facebook (Aug 30, 2021)
+## 📬 **Contact Me**
+- **Email**: [sohilakhaledabbas@outlook.com](mailto:sohilakhaledabbas@outlook.com)
+- **LinkedIn**: [Sohila Khaled Abbas](https://www.linkedin.com/in/sohilakhaledabbas/)
 
-Advertising with Facebook – Coursera Platform, Facebook (Aug 30, 2021)
-
-Introduction to Social Media Marketing – Coursera Platform, Facebook (Aug 25, 2021)
-
-Social Media Management – Coursera Platform, Facebook (Aug 27, 2021)
-
-Building a Business Presence with Facebook Marketing – Coursera Platform (Aug 8, 2021)
-
-### 4. Cloud Computing
-AWS Cloud Practitioner Essentials (Second Edition) – AWS Training & Certification (Sept 6, 2021)
-
-Understanding Cloud Computing – DataCamp (Nov 4, 2024)
-
-### 5. Artificial Intelligence
-AI Career Essentials Program – ALX (16 Sept - 5 Nov, 2024)
-
-Introduction to ChatGPT – DataCamp (Nov 4, 2024)
+Let’s connect and create something amazing together! 🚀
 
 
-### 6. Software Proficiency and Office Tools
-The Complete Microsoft Word Course: Master Microsoft Word – Udemy Platform (Aug 3, 2024)
-
-Adobe Photoshop CC - Basic Photoshop Training – Udemy Platform (Aug 8, 2021)
 
 
-### 7. Personal Development
-The Science of Well-Being – Coursera Platform, Yale University (Jul 27, 2021)
-
-Body Language: Appear Confident and Poised When You Speak – Udemy Platform (Jul 27, 2021)
-
-Time Management and Goal Planning: The Productivity Combo – Udemy Platform (Feb 4, 2021)
-
-Critical Thinking for Better Judgment and Decision-Making – LinkedIn Learning, Project Management Institute (Jan 14, 2021)
-
-
-🚀 Get in Touch
-
-
-I'm always open to collaboration on impactful data analysis projects. Feel free to reach out!
-
-Email: agro.sohila.k.abbas@gmail.com
-
-<p>
-  <a href="https://www.linkedin.com/in/sohilakhaledabbas" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
 
 <!---
 Sohila-Khaled-Abbas/Sohila-Khaled-Abbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
