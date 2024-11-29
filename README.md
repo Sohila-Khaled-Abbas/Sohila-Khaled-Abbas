@@ -21,22 +21,22 @@ I’m a passionate **Data Analyst** with a strong background in **data visualiza
 
 ## 🌟 Featured Projects
 
-### [**Regional Sales Dashboard**](https://github.com/sohilakhaledabbas/regional-sales-dashboard)  
+### [**Regional Sales Dashboard**](https://github.com/Sohila-Khaled-Abbas/regional-sales-dashboard) 
 - **Tools Used:** Power BI, DAX, SQL  
 - **Description:** An interactive dashboard analyzing sales, profit, and orders across regions for 2020-2023.  
 - **Key Features:** Drill-down functionality, year-over-year comparisons, and regional insights.
 
-### [**Healthcare Analytics Dashboard**](https://github.com/sohilakhaledabbas/healthcare-analytics-dashboard)  
+### [**Healthcare Analytics Dashboard**](https://github.com/Sohila-Khaled-Abbas/healthcare-analytics-dashboard)  
 - **Tools Used:** Power BI, Power Query  
 - **Description:** A comprehensive dashboard to monitor hospital waitlists and patient demographics.  
 - **Key Features:** Interactive filters, custom themes, and drill-through pages.
 
-### [**Global Layoffs Analysis**](https://github.com/sohilakhaledabbas/global-layoffs-analysis)  
+### [**Global Layoffs Analysis**](https://github.com/Sohila-Khaled-Abbas/global-layoffs-analysis)  
 - **Tools Used:** MySQL, Python  
 - **Description:** Data cleaning and exploratory analysis of global layoffs data.  
 - **Key Features:** Trend analysis, industry comparisons, and funding-stage correlations.
 
-For more projects, explore my repositories [here](https://github.com/sohilakhaledabbas?tab=repositories).  
+For more projects, explore my repositories [here](https://github.com/Sohila-Khaled-Abbas?tab=repositories).  
 
 ---
 
