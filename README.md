@@ -1,84 +1,76 @@
-# 👩‍💻 Sohila Khaled Abbas
+# 👋 Hello, I'm **Sohila Khaled Galal Abbas**
 
-**Aspiring Data Analyst | Food Safety Inspector | Quality Control Engineer**
-
-Hello! I'm Sohila, a passionate data analyst transitioning from a food safety and quality control background into the exciting field of data analytics. With a solid foundation in analytical skills and a commitment to continuous learning, I'm driven by the power of data to solve problems and uncover actionable insights.
-
----
-
-## 🚀 **Skills & Tools**
-### Programming & Data Analysis
-- **Languages**: Python, R, SQL
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
-
-### Data Visualization & Business Intelligence
-- **Tools**: Power BI, Tableau, Excel
-
-### Analytical Skills
-- Data Cleaning, Exploratory Data Analysis (EDA), Predictive Modeling
-- Statistical Testing, Trend Analysis, Data-Driven Insights
+🌍 **Location:** Damietta, Egypt  
+📧 **Email:** [sohilakhaledabbas@outlook.com](mailto:sohilakhaledabbas@outlook.com)  
+🌐 **Portfolio:** [NovyPro](https://www.novypro.com/profile_about/sohilakhaledabbas)
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sohilakhaledabbas)  
 
 ---
 
-## 🎓 **Courses & Certifications**
-- **HarvardX**: CS109x - Data Science with Python
-- **Google**: Data Analytics Professional Certificate
-- **DataCamp**: SQL, Python, EDA, Data Cleaning in Python
-- **Maven Analytics**: Thinking Like an Analyst
-- **365 Data Science**: Introduction to Data and Data Science, R Programming
-- **Udemy**: Microsoft Excel Masterclass
+## 🚀 About Me
 
-*Full list of certifications available upon request.*
+I’m a passionate **Data Analyst** with a strong background in **data visualization**, **business intelligence**, and **data-driven problem-solving**. With experience in tools like **Power BI**, **SQL**, and **Python**, I specialize in creating impactful dashboards and extracting actionable insights to empower decision-making.
 
----
-
-## 📂 **Projects**
-### 🛍 **Supermarket Sales Insights**
-- Created Power BI dashboards to analyze sales trends, customer demographics, and product performance.
-- Enabled actionable insights for better sales strategies.
-
-### 🎮 **Gaming Industry Insights**
-- Analyzed revenue and popularity trends of top-paid PC & Xbox games in 2020.
-- Delivered dashboards showcasing industry insights.
-
-### ⚽ **UEFA European Championship Analysis**
-- Visualized Spain’s record-breaking success using Power BI dashboards and trend analyses.
-
-### 📉 **Global Layoffs Data Analysis**
-- Cleaned a global layoffs dataset using MySQL and performed EDA to uncover trends and correlations.
-- Generated insights into the factors driving layoffs by industry and funding stages.
-
-### 🏡 **Airbnb Listings Analysis**
-- Built Tableau dashboards visualizing revenue trends, high-demand areas, and room type distribution for Seattle Airbnb listings.
-
-### 🚴 **Bike Sales Dashboard**
-- Designed an interactive Excel dashboard analyzing customer demographics and purchase behaviors.
+🔑 **Key Areas of Expertise**:
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Dashboard Design and Business Intelligence
+- Predictive Modeling & Statistical Testing
 
 ---
 
-## 🌟 **Personal Insights**
-My transition into data analytics stems from my passion for uncovering patterns and solving problems through data. With a background in agricultural sciences and food safety, I've honed my analytical skills to ensure quality and efficiency. Now, I'm channeling these skills into the data world, eager to contribute to impactful projects that make a difference.
+## 🌟 Featured Projects
+
+### [**Regional Sales Dashboard**](https://github.com/sohilakhaledabbas/regional-sales-dashboard)  
+- **Tools Used:** Power BI, DAX, SQL  
+- **Description:** An interactive dashboard analyzing sales, profit, and orders across regions for 2020-2023.  
+- **Key Features:** Drill-down functionality, year-over-year comparisons, and regional insights.
+
+### [**Healthcare Analytics Dashboard**](https://github.com/sohilakhaledabbas/healthcare-analytics-dashboard)  
+- **Tools Used:** Power BI, Power Query  
+- **Description:** A comprehensive dashboard to monitor hospital waitlists and patient demographics.  
+- **Key Features:** Interactive filters, custom themes, and drill-through pages.
+
+### [**Global Layoffs Analysis**](https://github.com/sohilakhaledabbas/global-layoffs-analysis)  
+- **Tools Used:** MySQL, Python  
+- **Description:** Data cleaning and exploratory analysis of global layoffs data.  
+- **Key Features:** Trend analysis, industry comparisons, and funding-stage correlations.
+
+For more projects, explore my repositories [here](https://github.com/sohilakhaledabbas?tab=repositories).  
 
 ---
 
-## 🎯 **Future Goals**
-- Achieve Power BI certification.
-- Deepen expertise in machine learning and advanced analytics.
-- Collaborate on projects tackling global challenges using data.
+## 🛠️ Technical Skills
+
+- **Programming:** Python, R, SQL  
+- **Data Visualization Tools:** Power BI, Tableau, Excel  
+- **Databases:** MySQL, PostgreSQL  
+- **Other Tools:** Power Query, DAX, Git, Jupyter Notebooks  
 
 ---
 
-## 📬 **Contact Me**
-- **Email**: [sohilakhaledabbas@outlook.com](mailto:sohilakhaledabbas@outlook.com)
-- **LinkedIn**: [Sohila Khaled Abbas](https://www.linkedin.com/in/sohilakhaledabbas/)
+## 📈 My GitHub Stats
 
-Let’s connect and create something amazing together! 🚀
+![Sohila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohila-Khaled-Abbas&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohila-Khaled-Abbas&layout=compact&theme=radical)
 
+---
 
+## 🌱 Current Goals
 
+- Enhance my skills in **Power BI** and **SQL** for advanced business intelligence.
+- Build end-to-end projects in **data analytics** with real-world use cases.
+- Create tutorials and share insights about data visualization and analysis.
 
+---
 
-<!---
-Sohila-Khaled-Abbas/Sohila-Khaled-Abbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤝 Let’s Collaborate!
+
+- 💡 Interested in working on data-driven projects? Let’s connect!
+- ✍️ Open to collaborating on **data analytics** and **visualization** challenges.
+- 🌟 Feel free to explore my repositories and reach out with suggestions or opportunities.
+
+---
+
+### **Thank you for visiting my GitHub profile!**  
+📩 **Let’s connect:** [sohilakhaledabbas@outlook.com](mailto:sohilakhaledabbas@outlook.com) | [LinkedIn](https://www.linkedin.com/in/sohilakhaledabbas)
