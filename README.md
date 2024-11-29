@@ -22,7 +22,7 @@ I’m a passionate **Data Analyst** with a strong background in **data visualiza
 ## 🌟 Featured Projects
 
 ### [**Regional Sales Dashboard**](https://github.com/Sohila-Khaled-Abbas/regional-sales-dashboard) 
-- **Tools Used:** Power BI, DAX, SQL  
+- **Tools Used:** Power BI, DAX
 - **Description:** An interactive dashboard analyzing sales, profit, and orders across regions for 2020-2023.  
 - **Key Features:** Drill-down functionality, year-over-year comparisons, and regional insights.
 
@@ -32,7 +32,7 @@ I’m a passionate **Data Analyst** with a strong background in **data visualiza
 - **Key Features:** Interactive filters, custom themes, and drill-through pages.
 
 ### [**Global Layoffs Analysis**](https://github.com/Sohila-Khaled-Abbas/global-layoffs-analysis)  
-- **Tools Used:** MySQL, Python  
+- **Tools Used:** MySQL 
 - **Description:** Data cleaning and exploratory analysis of global layoffs data.  
 - **Key Features:** Trend analysis, industry comparisons, and funding-stage correlations.
 
