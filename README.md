@@ -1,76 +1,69 @@
-# 👋 Hello, I'm **Sohila Khaled Galal Abbas**
 
-🌍 **Location:** Damietta, Egypt  
-📧 **Email:** [sohilakhaledabbas@outlook.com](mailto:sohilakhaledabbas@outlook.com)  
-🌐 **Portfolio:** [NovyPro](https://www.novypro.com/profile_about/sohilakhaledabbas)
-💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sohilakhaledabbas)  
+# Hello World! 🌍 I'm Sohila Khaled Abbas 👋🏼
+An **ambitious Data Analyst** based in Damietta, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!
 
----
-
-## 🚀 About Me
-
-I’m a passionate **Data Analyst** with a strong background in **data visualization**, **business intelligence**, and **data-driven problem-solving**. With experience in tools like **Power BI**, **SQL**, and **Python**, I specialize in creating impactful dashboards and extracting actionable insights to empower decision-making.
-
-🔑 **Key Areas of Expertise**:
-- Data Cleaning & Transformation
-- Exploratory Data Analysis (EDA)
-- Dashboard Design and Business Intelligence
-- Predictive Modeling & Statistical Testing
+- 📊 Currently freelancing on [Upwork](https://www.upwork.com/freelancers/~0101a179450fb0cceb?viewMode=1), [Mostaql](https://mostaql.com/u/sohilaxkhaled), and [Khamsat](https://khamsat.com/user/sohilakhaledabbas)
+- 📚 Continuously learning from platforms like Google, DataCamp, and Udemy
+- 🌱 Exploring advanced analytics, AI tools, and automation techniques
+- ✨ Fluent in **Arabic** and **English** (C2)
 
 ---
 
-## 🌟 Featured Projects
-
-### [**Regional Sales Dashboard**](https://github.com/Sohila-Khaled-Abbas/regional-sales-dashboard) 
-- **Tools Used:** Power BI, DAX
-- **Description:** An interactive dashboard analyzing sales, profit, and orders across regions for 2020-2023.  
-- **Key Features:** Drill-down functionality, year-over-year comparisons, and regional insights.
-
-### [**Healthcare Analytics Dashboard**](https://github.com/Sohila-Khaled-Abbas/healthcare-analytics-dashboard)  
-- **Tools Used:** Power BI, Power Query  
-- **Description:** A comprehensive dashboard to monitor hospital waitlists and patient demographics.  
-- **Key Features:** Interactive filters, custom themes, and drill-through pages.
-
-### [**Global Layoffs Analysis**](https://github.com/Sohila-Khaled-Abbas/global-layoffs-analysis)  
-- **Tools Used:** MySQL 
-- **Description:** Data cleaning and exploratory analysis of global layoffs data.  
-- **Key Features:** Trend analysis, industry comparisons, and funding-stage correlations.
-
-For more projects, explore my repositories [here](https://github.com/Sohila-Khaled-Abbas?tab=repositories).  
+# 💻 Tech Stack
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 Featured Projects
+Here are some of my recent projects that showcase my expertise:
+- **[Social Media Advertising Dashboard](https://github.com/Sohila-Khaled-Abbas/Social-Media-Advertising-Dashboard)**  
+  *Technologies: Power BI, Python*  
+  - Automated preprocessing in Python, resolving 100% missing ROI data and creating Total Spend
+  - Highlighted a 35% click contribution from top channels and an average engagement score of 78.9%
+    
+- **[Startup Expansion Analysis Dashboard](https://github.com/Sohila-Khaled-Abbas/Startup-Expansion-Analysis-Dashboard)**  
+  *Technologies: Power BI, Python*  
+  - Automated data preprocessing, resolving 15% missing data
+  - Highlighted key metrics: $1.5M revenue lead, ROI exceeding 137,437.83%
 
-- **Programming:** Python, R, SQL  
-- **Data Visualization Tools:** Power BI, Tableau, Excel  
-- **Databases:** MySQL, PostgreSQL  
-- **Other Tools:** Power Query, DAX, Git, Jupyter Notebooks  
+- **[HR Analytics Dashboard](https://github.com/Sohila-Khaled-Abbas/HR-Analytics-Dashboard)**  
+  *Technologies: Power BI*  
+  - Consolidated multi-source data
+  - Enhanced HR reporting efficiency with actionable attendance insights
 
----
+- **[Emergency Room Dashboard](https://github.com/Sohila-Khaled-Abbas/Emergency-Room-Dashboard)**  
+  *Technologies: Power BI*  
+  - Boosted patient satisfaction (+13%) and reduced wait times (1.9%)
 
-## 📈 My GitHub Stats
-
-![Sohila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohila-Khaled-Abbas&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohila-Khaled-Abbas&layout=compact&theme=radical)
-
----
-
-## 🌱 Current Goals
-
-- Enhance my skills in **Power BI** and **SQL** for advanced business intelligence.
-- Build end-to-end projects in **data analytics** with real-world use cases.
-- Create tutorials and share insights about data visualization and analysis.
-
----
-
-## 🤝 Let’s Collaborate!
-
-- 💡 Interested in working on data-driven projects? Let’s connect!
-- ✍️ Open to collaborating on **data analytics** and **visualization** challenges.
-- 🌟 Feel free to explore my repositories and reach out with suggestions or opportunities.
+- **[Regional Sales Dashboard](https://github.com/Sohila-Khaled-Abbas/regional-sales-dashboard)**  
+  *Technologies: Power BI*  
+  - Achieved a 20% sales increase through advanced DAX measures
+    
+🔍 **Check out more of my projects in [my repositories](https://github.com/Sohila-Khaled-Abbas?tab=repositories)!**
 
 ---
 
-### **Thank you for visiting my GitHub profile!**  
-📩 **Let’s connect:** [sohilakhaledabbas@outlook.com](mailto:sohilakhaledabbas@outlook.com) | [LinkedIn](https://www.linkedin.com/in/sohilakhaledabbas)
+# 🌟 Certifications
+Here are some of the certifications I've earned:
+- **Google Data Analytics Professional Certificate**
+- **DataCamp Career and Skill Tracks**
+- **HackerRank SQL Certifications (Basic to Advanced)**
+- **Maven Analytics: Thinking Like an Analyst**
+- **Cisco Networking Academy: Data Analytics Essentials**
+
+🎓 **Explore the full list of my certifications on [LinkedIn](https://www.linkedin.com/in/sohilakhaledabbas/)!**
+
+---
+
+# 📫 Contact Me
+- **Email**: [sohilakhaled811@gmail.com](mailto:sohilakhaled811@gmail.com)
+- **Phone**: (+2) 01114919021
+- **LinkedIn**: [Sohila Khaled Abbas](https://www.linkedin.com/in/sohilakhaledabbas/)
+
