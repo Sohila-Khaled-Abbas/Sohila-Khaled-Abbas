@@ -1,4 +1,3 @@
-
 # Hello World! 🌍 I'm Sohila Khaled Abbas 👋🏼
 An **ambitious Data Analyst** based in Damietta, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!
 
@@ -24,28 +23,26 @@ An **ambitious Data Analyst** based in Damietta, Egypt, with a passion for trans
 # 🚀 Featured Projects
 Here are some of my recent projects that showcase my expertise:
 - **[Social Media Advertising Dashboard](https://github.com/Sohila-Khaled-Abbas/Social-Media-Advertising-Dashboard)**  
-  *Technologies: Power BI, Python*  
-  - Automated preprocessing in Python, resolving 100% missing ROI data and creating Total Spend
-  - Highlighted a 35% click contribution from top channels and an average engagement score of 78.9%
-    
+*Technologies: Power BI, Python*  
+- Automated preprocessing in Python, resolving 100% missing ROI data and creating Total Spend
+- Highlighted a 35% click contribution from top channels and an average engagement score of 78.9%
 - **[Startup Expansion Analysis Dashboard](https://github.com/Sohila-Khaled-Abbas/Startup-Expansion-Analysis-Dashboard)**  
-  *Technologies: Power BI, Python*  
-  - Automated data preprocessing, resolving 15% missing data
-  - Highlighted key metrics: $1.5M revenue lead, ROI exceeding 137,437.83%
+*Technologies: Power BI, Python*  
+- Automated data preprocessing, resolving 15% missing data
+- Highlighted key metrics: $1.5M revenue lead, ROI exceeding 137,437.83%
 
 - **[HR Analytics Dashboard](https://github.com/Sohila-Khaled-Abbas/HR-Analytics-Dashboard)**  
-  *Technologies: Power BI*  
-  - Consolidated multi-source data
-  - Enhanced HR reporting efficiency with actionable attendance insights
+*Technologies: Power BI*  
+- Consolidated multi-source data
+- Enhanced HR reporting efficiency with actionable attendance insights
 
 - **[Emergency Room Dashboard](https://github.com/Sohila-Khaled-Abbas/Emergency-Room-Dashboard)**  
-  *Technologies: Power BI*  
-  - Boosted patient satisfaction (+13%) and reduced wait times (1.9%)
+*Technologies: Power BI*  
+- Boosted patient satisfaction (+13%) and reduced wait times (1.9%)
 
 - **[Regional Sales Dashboard](https://github.com/Sohila-Khaled-Abbas/regional-sales-dashboard)**  
-  *Technologies: Power BI*  
-  - Achieved a 20% sales increase through advanced DAX measures
-    
+*Technologies: Power BI*  
+- Achieved a 20% sales increase through advanced DAX measures
 🔍 **Check out more of my projects in [my repositories](https://github.com/Sohila-Khaled-Abbas?tab=repositories)!**
 
 ---
@@ -67,3 +64,8 @@ Here are some of the certifications I've earned:
 - **Phone**: (+2) 01114919021
 - **LinkedIn**: [Sohila Khaled Abbas](https://www.linkedin.com/in/sohilakhaledabbas/)
 
+---
+
+# 🌐 Portfolio
+
+Check out my full portfolio on my [website](https://sohila-khaled-abbas.github.io/Portfolio/index.html) to see my work and the projects I’ve completed!
