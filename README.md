@@ -43,6 +43,7 @@ Here are some of my recent projects that showcase my expertise:
 - **[Regional Sales Dashboard](https://github.com/Sohila-Khaled-Abbas/regional-sales-dashboard)**  
 *Technologies: Power BI*  
 - Achieved a 20% sales increase through advanced DAX measures
+  
 🔍 **Check out more of my projects in [my repositories](https://github.com/Sohila-Khaled-Abbas?tab=repositories)!**
 
 ---
