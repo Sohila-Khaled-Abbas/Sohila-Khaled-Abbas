@@ -1,7 +1,7 @@
 # Hello World! 🌍 I'm Sohila Khaled Abbas 👋🏼
 An **ambitious Data Analyst** based in Damietta, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!
 
-- 📊 Currently freelancing on [Upwork](https://www.upwork.com/freelancers/~0101a179450fb0cceb?viewMode=1), [Mostaql](https://mostaql.com/u/sohilaxkhaled), and [Khamsat](https://khamsat.com/user/sohilakhaledabbas)
+- 📊 Currently freelancing on Upwork, Mostaql, and Khamsat.
 - 📚 Continuously learning from platforms like Google, DataCamp, and Udemy
 - 🌱 Exploring advanced analytics, AI tools, and automation techniques
 - ✨ Fluent in **Arabic** and **English** (C2)
@@ -62,7 +62,6 @@ Here are some of the certifications I've earned:
 
 # 📫 Contact Me
 - **Email**: [sohilakhaled811@gmail.com](mailto:sohilakhaled811@gmail.com)
-- **Phone**: (+2) 01114919021
 - **LinkedIn**: [Sohila Khaled Abbas](https://www.linkedin.com/in/sohilakhaledabbas/)
 
 ---
