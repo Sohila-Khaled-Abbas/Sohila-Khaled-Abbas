@@ -56,13 +56,13 @@ Here are some of the certifications I've earned:
 - **Maven Analytics: Thinking Like an Analyst**
 - **Cisco Networking Academy: Data Analytics Essentials**
 
-🎓 **Explore the full list of my certifications on [LinkedIn](https://www.linkedin.com/in/sohilakhaledabbas/)!**
+🎓 **Explore the full list of my certifications on [LinkedIn](https://www.linkedin.com/in/sohilakabbas/)!**
 
 ---
 
 # 📫 Contact Me
 - **Email**: [sohilakhaled811@gmail.com](mailto:sohilakhaled811@gmail.com)
-- **LinkedIn**: [Sohila Khaled Abbas](https://www.linkedin.com/in/sohilakhaledabbas/)
+- **LinkedIn**: [Sohila Khaled Abbas](https://www.linkedin.com/in/sohilakabbas/)
 
 ---
 
