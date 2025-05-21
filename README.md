@@ -125,36 +125,6 @@ Results-driven Data Analyst with expertise in transforming raw data into actiona
   - **Technologies:** Power BI
 </details>
 
-## 🏆 Achievements & Certifications
-<table>
-  <tr>
-    <td>
-      <h3>🏅 Achievements</h3>
-      <ul>
-        <li>Top 5 Data Science Creator – Egypt | Favikon (April 2025)</li>
-        <li>Built a community of 20K+ data professionals</li>
-        <li>Demonstrated thought leadership in data visualization</li>
-      </ul>
-    </td>
-    <td>
-      <h3>📜 Certifications</h3>
-      <ul>
-        <li>SQL Certifications (Basic, Intermediate, Advanced) — HackerRank</li>
-        <li>Data Analytics Essentials — Cisco</li>
-        <li>Data Literacy Certificate — DataCamp</li>
-        <li>Associate Data Scientist in Python - Career Track</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 📚 Education
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Damietta_University-Bachelor_of_Science_in_Agricultural_Sciences-0056D2?style=for-the-badge" alt="Education" />
-  <p>October 2020 - July 2024</p>
-  <p><i>Relevant Coursework: Statistics and Probability, Research Methodology, Economics</i></p>
-</div>
 
 ## 📫 Let's Connect!
 <div align="center">
