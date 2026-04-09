@@ -1,98 +1,77 @@
 <div align="center">
 
 # Hi, I'm Sohila Khaled Abbas 👋
-### BI Developer | Data Analytics Engineer | Turning Data Into Decision Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BI+Developer+%7C+Analytics+Engineer;Power+BI+%7C+SQL+%7C+Python+%7C+ETL;Building+Scalable+Decision-Ready+Data+Systems;Dashboards+that+move+business+KPIs" alt="Typing SVG" />
+### BI Developer | Analytics Engineer | Building Decision Systems from Data
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BI+Developer+%7C+Analytics+Engineer;Power+BI+%7C+SQL+%7C+Python+%7C+ETL;Designing+Scalable+Data+Pipelines;Turning+Data+Into+Business+Decisions" />
+
+![](https://komarev.com/ghpvc/?username=Sohila-Khaled-Abbas\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
 
 </div>
 
 ---
 
+## 🏗️ BI System Design Blueprint
+
+```text
+Data Sources (APIs / Files / Databases)
+            ↓
+Python ETL + Automation (n8n)
+            ↓
+Data Warehouse (PostgreSQL / Snowflake / Databricks)
+            ↓
+Star Schema + Semantic Modeling
+            ↓
+Power BI Dashboards + KPI Monitoring
+            ↓
+Business Decisions & Strategy
+```
+
+---
+
 ## 🚀 About Me
-BI Developer and Data Analytics Engineer focused on transforming fragmented datasets into **scalable semantic models, automated ETL pipelines, and executive-ready dashboards**.
 
-Passionate about:
-- 📊 Business Intelligence Engineering
-- ⚙️ Data Automation & API Pipelines
-- 🧠 Statistical Modeling & Experimentation
-- ☁️ Modern Data Stack
-- 🌍 Data education, mentoring, and community building
-- 📈 Building analytics systems that shorten time-to-insight
+BI Developer and Analytics Engineer focused on designing **end-to-end data systems** — from ingestion and transformation to modeling and decision-making dashboards.
 
-Recognized as:
-- 🏆 Top 3 Data Science Creator in Egypt
-- 🌍 Top 200 Arabic-speaking Influencer in Data Education
-- 🎓 Technical mentor for 50+ professionals
+Core focus areas:
+
+* Data Modeling & Star Schema Design
+* ETL Pipelines & Automation
+* Business Intelligence Systems
+* Statistical Analysis & Experimentation
+* Decision-Oriented Dashboarding
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
 
 ### Data Engineering & Analytics
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
 
 ### Cloud & Modern Stack
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge\&logo=snowflake\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 ![API](https://img.shields.io/badge/API%20Integration-005571?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge)
-
-### Methods
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-6A5ACD?style=for-the-badge)
-![OLS Regression](https://img.shields.io/badge/OLS%20Regression-2E8B57?style=for-the-badge)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-8A2BE2?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge)
 
 ---
-
-## 📌 Current Projects
-
-### 📦 B2B Retail Analytics & Churn Diagnostic Dashboard
-- Analyzed **472K+ orders**
-- Identified **12% revenue leakage**
-- Built star-schema semantic model
-- Reduced refresh time by **50%**
-
-### 🧪 A/B Testing on Marketing Campaign
-- Python + PostgreSQL statistical workflow
-- Fraud anomaly detection using **Z-score + IQR**
-- OLS regression for pricing optimization
-- Recommended **2% margin-safe pricing adjustment**
-
-### 🚚 SMART Supply Chain Insights Dashboard
-- Shipping fraud anomaly detection
-- Power BI operational risk monitoring
-- KPI diagnostics for logistics performance
-
-### 🍎 Apple Stock Market Analysis
-An end-to-end **data engineering and analytics project** analyzing historical **Apple Inc. (AAPL)** stock market data up to the present day.
-
-Includes:
-- 📥 API / market data ingestion
-- 🧹 automated ETL pipeline
-- 🏗️ warehouse-ready financial modeling
-- 📈 trend forecasting & volatility analysis
-- 💡 investment signal generation
-- 📊 executive dashboarding for actionable strategy insights
-
----
-
-## 📈 GitHub Analytics
 
 ## 📊 Engineering & Analytics Telemetry
 
@@ -110,31 +89,90 @@ Includes:
 
 </div>
 
-### 📌 What this represents
-- **Commit streak → delivery consistency**
-- **Repo-per-language → technical depth**
-- **Activity graph → engineering velocity**
-- **Best for recruiters evaluating execution discipline**
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Repositories
 
-<p align="left">
-<a href="http://www.linkedin.com/in/sohilakabbas" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-Sohila%20Khaled%20Abbas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### 🍎 Apple Stock Market Analytics
 
-<a href="mailto:sohila.k.data@gmail.com">
-<img src="https://img.shields.io/badge/Email-sohila.k.data%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+End-to-end data engineering pipeline analyzing AAPL stock data:
 
-<a href="https://sohilakhaledportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+* Data ingestion & APIs
+* ETL pipelines
+* Financial modeling
+* Forecasting & insights
+
+### 🛒 B2B Retail Churn Intelligence
+
+* 472K+ orders analysis
+* Revenue leakage detection
+* KPI dashboard system
+
+### 🧪 A/B Testing Engine
+
+* Statistical modeling
+* Experiment analysis
+* Pricing optimization
+
+### 🚚 Supply Chain Intelligence
+
+* Fraud detection
+* Risk monitoring dashboards
+
+### ⚙️ Power BI Templates
+
+* Star schema models
+* Reusable BI systems
+
+### 📚 Mentorship & Learning Assets
+
+* Roadmaps
+* Freelancing systems
+* Community resources
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sohila-Khaled-Abbas/Sohila-Khaled-Abbas/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 💡 Profile Philosophy
-> Building BI systems is not about charts.  
-> It is about designing **decision infrastructure**.
+## 🌍 Community Impact
+
+* Mentored 50+ data professionals
+* Conducted 100+ code reviews
+* Helped 15+ learners land roles
+* Built data community "The Data Tea"
+* Top Data Science Creator in Egypt
+
+---
+
+## 🤝 Let’s Build Data Systems
+
+Open to collaboration on:
+
+* BI Development
+* ETL & Data Pipelines
+* Analytics Engineering
+* Dashboard Systems
+* Data Strategy
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sohila%20Khaled%20Abbas-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://www.linkedin.com/in/sohilakabbas)
+
+[![Email](https://img.shields.io/badge/Email-sohila.k.data%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sohila.k.data@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sohilakhaledportfolio.vercel.app/)
+
+---
+
+## 💡 Philosophy
+
+> Data is only valuable when it drives decisions.
+> The goal is not dashboards — it is decision systems.
