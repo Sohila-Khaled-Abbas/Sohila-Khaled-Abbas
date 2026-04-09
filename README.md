@@ -119,25 +119,72 @@ specialty:
 
 ## 🚀 Featured Analytics Repositories
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=apple-stock-market-analysis&theme=tokyonight&hide_border=true" />
-</a>
+### 🍎 [Apple Stock Market Intelligence](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)
 
-<a href="https://github.com/Sohila-Khaled-Abbas/fmcg-sales-churn-drop-analysis-powerbi">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=fmcg-sales-churn-drop-analysis-powerbi&theme=tokyonight&hide_border=true" />
-</a>
+**End-to-end financial analytics engineering system**
 
-<a href="https://github.com/Sohila-Khaled-Abbas/SMART-Supply-Chain-Insights-Dashboard">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=SMART-Supply-Chain-Insights-Dashboard&theme=tokyonight&hide_border=true" />
-</a>
+* historical AAPL data ingestion
+* ETL orchestration pipeline
+* warehouse-ready financial modeling
+* volatility + trend diagnostics
+* investment strategy dashboards
 
-<a href="https://github.com/Sohila-Khaled-Abbas/ab-testing-marketing-conversion">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=ab-testing-marketing-conversion&theme=tokyonight&hide_border=true" />
-</a>
+**Core stack:** Python • SQL • APIs • Power BI • Forecasting
 
-</div>
+</td>
+<td width="50%">
+
+### 🛒 [FMCG Sales Churn & Revenue Drop](https://github.com/Sohila-Khaled-Abbas/fmcg-sales-churn-drop-analysis-powerbi)
+
+**Commercial intelligence & retention analytics**
+
+* churn diagnostics
+* revenue leakage detection
+* KPI semantic modeling
+* retention cohort analysis
+* executive Power BI storytelling
+
+**Core stack:** Power BI • DAX • SQL • Star Schema
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚚 [SMART Supply Chain Insights](https://github.com/Sohila-Khaled-Abbas/SMART-Supply-Chain-Insights-Dashboard)
+
+**Operations intelligence & risk analytics**
+
+* fraud anomaly detection
+* logistics KPI monitoring
+* supply chain risk dashboards
+* fulfillment bottleneck diagnostics
+
+**Core stack:** Python • Statistics • Power BI
+
+</td>
+<td width="50%">
+
+### 🧪 [A/B Testing Marketing Conversion](https://github.com/Sohila-Khaled-Abbas/ab-testing-marketing-conversion)
+
+**Experimentation analytics & statistical inference**
+
+* hypothesis testing
+* conversion uplift measurement
+* confidence intervals
+* OLS regression
+* pricing optimization insights
+
+**Core stack:** Python • PostgreSQL • SciPy • Experiment Design
+
+</td>
+</tr>
+</table>
 
 ---
 
