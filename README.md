@@ -119,15 +119,26 @@ specialty:
 
 ## 🚀 Featured Analytics Repositories
 
-## 🚀 Featured Analytics Projects
-
 <div align="center">
 
-[![Apple Stock Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=apple-stock-market-analysis&theme=tokyonight&hide_border=true)](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)
+<a href="https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=apple-stock-market-analysis&theme=tokyonight&hide_border=true" />
+</a>
 
-[![A/B Testing](https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=ab-testing-marketing-conversion&theme=tokyonight&hide_border=true)](https://github.com/Sohila-Khaled-Abbas/ab-testing-marketing-conversion)
+<a href="https://github.com/Sohila-Khaled-Abbas/fmcg-sales-churn-drop-analysis-powerbi">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=fmcg-sales-churn-drop-analysis-powerbi&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Sohila-Khaled-Abbas/SMART-Supply-Chain-Insights-Dashboard">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=SMART-Supply-Chain-Insights-Dashboard&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Sohila-Khaled-Abbas/ab-testing-marketing-conversion">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=ab-testing-marketing-conversion&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
+
 ---
 
 ## 🌍 Leadership & Community Analytics
