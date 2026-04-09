@@ -119,57 +119,15 @@ specialty:
 
 ## 🚀 Featured Analytics Repositories
 
-<table>
-<tr>
-<td width="50%">
+## 🚀 Featured Analytics Projects
 
-### 🍎 Apple Stock Market Intelligence
+<div align="center">
 
-* market data ingestion
-* ETL + warehousing
-* volatility diagnostics
-* investment signals
-* executive dashboards
+[![Apple Stock Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=apple-stock-market-analysis&theme=tokyonight&hide_border=true)](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)
 
-### 🛒 Revenue Leakage Intelligence
+[![A/B Testing](https://github-readme-stats.vercel.app/api/pin/?username=Sohila-Khaled-Abbas&repo=ab-testing-marketing-conversion&theme=tokyonight&hide_border=true)](https://github.com/Sohila-Khaled-Abbas/ab-testing-marketing-conversion)
 
-* 472K+ retail orders
-* churn diagnostics
-* retention KPIs
-* profit optimization
-
-### 🧪 Experimentation Engine
-
-* A/B testing
-* significance testing
-* OLS modeling
-* pricing recommendations
-
-</td>
-<td width="50%">
-
-### 🚚 Supply Chain Risk Intelligence
-
-* anomaly detection
-* fraud monitoring
-* logistics KPIs
-
-### ⚙️ BI Semantic Templates
-
-* star schemas
-* DAX templates
-* reusable KPI frameworks
-
-### 📚 Analytics Mentorship OS
-
-* roadmaps
-* coaching assets
-* freelancing systems
-
-</td>
-</tr>
-</table>
-
+</div>
 ---
 
 ## 🌍 Leadership & Community Analytics
