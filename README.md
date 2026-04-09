@@ -1,5 +1,5 @@
 <!--
-Sohila — GitHub Profile README
+Sohila — Advanced GitHub Profile README
 Instructions: Create a repo named YOUR_GITHUB_USERNAME and paste this README.md there.
 Replace placeholders: YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_URL, YOUR_EMAIL, YOUR_PORTFOLIO_URL
 -->
@@ -31,13 +31,13 @@ Replace placeholders: YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_URL, YOUR_EMAIL, YOUR_
 
 🔎 Quick Snapshot
 
-Focus: End-to-end data modeling, ETL automation (Python/SQL/n8n), and interactive Power BI dashboards.
+Roles: BI Developer • Data Analytics Engineer • Technical Coach (DEPI)
 
-Experience: Transitioning raw API/database architectures into decision-ready BI reporting systems.
+Focus: Interactive Power BI dashboards, ETL automation (Python/SQL/n8n), Web Scraping
 
-Mentorship: Technical Coach at DEPI & Data Pill, guiding 50+ professionals in BI pipeline execution.
+Recognition: Favikon — Top 200 Arabic-speaking Influencers in Egypt (data community impact)
 
-Recognition: Favikon — Top 200 Arabic-speaking Influencers in Egypt (Data Community Impact).
+Audience: Technical Recruiters, BI Managers, Data Professionals
 
 </div>
 
@@ -50,11 +50,15 @@ Recognition: Favikon — Top 200 Arabic-speaking Influencers in Egypt (Data Comm
 <img alt="Content Creator" src="https://img.shields.io/badge/Content%20Creator-Engaging-0A66C2?style=for-the-badge&logo=linkedin" />
 </div>
 
-<!-- ======================= TECH STACK (Verified Grid) ======================= -->
+<!-- ======================= TECH STACK (Advanced grid with SVGs / shields) ======================= -->
 
 <h2 align="center">🛠️ Core Tech Stack & Tooling</h2>
 
 <div align="center">
+
+<!-- Compact grid using skillicons + shields -->
+
+<!-- Languages & Data -->
 
 <p><strong>Languages & Databases</strong></p>
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,postgres,mysql%26theme%3Ddark" alt="Langs and DBs" />
@@ -70,16 +74,31 @@ Recognition: Favikon — Top 200 Arabic-speaking Influencers in Egypt (Data Comm
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/DAX-Measures-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Star_Schema-Modeling-6f42c1%3Fstyle%3Dfor-the-badge" />
 
-<p><strong>Web Scraping & Extraction</strong></p>
+<p><strong>Web Scraping & Data Extraction</strong></p>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Selenium-Browser%2520Automation-43B02A%3Fstyle%3Dfor-the-badge%26logo%3Dselenium" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/BeautifulSoup-Parsing-8A2BE2%3Fstyle%3Dfor-the-badge" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Requests-APIs-4b8bbe%3Fstyle%3Dfor-the-badge" />
 
-<p><strong>Familiar Environments</strong></p>
+<p><strong>Cloud Environments (Familiarity)</strong></p>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Databricks-Data_Lake-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Snowflake-Data_Warehouse-29B5E8%3Fstyle%3Dfor-the-badge%26logo%3Dsnowflake%26logoColor%3Dwhite" />
 
 </div>
+
+<!-- Collapsible advanced badges gallery -->
+
+<details>
+<summary><strong>🔽 Methodologies & Statistical Skills (click to expand)</strong></summary>
+
+<div align="center" markdown="1">
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/A%252FB%2520Testing-Hypothesis-F25C54%3Fstyle%3Dfor-the-badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/OLS%2520Regression-Modeling-0173b2%3Fstyle%3Dfor-the-badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Z--Score%2520%2526%2520IQR-Anomaly%2520Detection-0b5cff%3Fstyle%3Dfor-the-badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Agile-Methodology-8A63D2%3Fstyle%3Dfor-the-badge" />
+
+</div>
+</details>
 
 <!-- ======================= WHAT I'M WORKING ON ======================= -->
 
@@ -94,7 +113,7 @@ Recognition: Favikon — Top 200 Arabic-speaking Influencers in Egypt (Data Comm
 </ul>
 </div>
 
-<!-- ======================= GITHUB STATS ======================= -->
+<!-- ======================= GITHUB STATS & TROPHIES ======================= -->
 
 <h2 align="center">📊 Activity Metrics</h2>
 
@@ -105,16 +124,19 @@ Recognition: Favikon — Top 200 Arabic-speaking Influencers in Egypt (Data Comm
 <img src="https://github-readme-stats.vercel.app/api?username=Sohila-Khaled-Abbas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Sohila's GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohila-Khaled-Abbas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
+<!-- Trophies -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sohila-Khaled-Abbas&theme=onedark" alt="trophies" />
+
 </div>
 
 <!-- ======================= CONNECT & CTA ======================= -->
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center">🤝 Let's Connect / Work Together</h2>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sohilakabbas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:agro.sohila.k.abbas@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<!-- Replace with actual portfolio link if you have one -->
+<a href="mailto:sohila.k.data@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.google.com/search?q=https://github.com/Sohila-Khaled-Abbas"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-View_Work-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Portfolio" /></a>
 </div>
 
