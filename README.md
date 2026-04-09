@@ -107,6 +107,7 @@ specialty:
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohila-Khaled-Abbas&theme=tokyo-night&area=true&hide_border=true" />
 </div>
+
 ---
 
 ## 🧬 Contribution Flow Map
