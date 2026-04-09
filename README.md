@@ -107,16 +107,6 @@ specialty:
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohila-Khaled-Abbas&theme=tokyo-night&area=true&hide_border=true" />
 </div>
-
-### 📈 What This Signals
-
-| Metric           | Business Meaning       |
-| ---------------- | ---------------------- |
-| Delivery cadence | execution consistency  |
-| Productive time  | engineering discipline |
-| Activity graph   | build velocity         |
-| Repo depth       | technical breadth      |
-
 ---
 
 ## 🧬 Contribution Flow Map
