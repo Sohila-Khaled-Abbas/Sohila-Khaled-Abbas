@@ -102,15 +102,24 @@ Audience: Technical Recruiters, BI Managers, Data Professionals
 
 <!-- ======================= WHAT I'M WORKING ON ======================= -->
 
-<h2 align="center">📌 Current Focus & Recent Work</h2>
+<h2 align="center">📌 Featured Architecture & Projects</h2>
 
 <div align="center">
-<ul style="max-width:900px; text-align:left;">
-<li><strong>B2B Retail Analytics:</strong> Architecting star-schema data models to process 472K+ orders and track MoM customer churn diagnostics.</li>
-<li><strong>Supply Chain Anomaly Detection:</strong> Applying Z-score and IQR statistical methods in Python to detect shipping fraud and mitigate operational risks.</li>
-<li><strong>ETL & Pipeline Automation:</strong> Replacing manual CSV exports with automated Python/PostgreSQL pipelines to streamline A/B testing analysis.</li>
-<li><strong>Data Community Mentorship:</strong> Reviewing code and simulating end-to-end freelancing environments for 50+ professionals through DEPI.</li>
-</ul>
+<p><i>Note: The repositories below contain full ETL scripts, data models, and business outcome documentation.</i></p>
+
+<!-- IMPORTANT: Replace the "repo=" value with your EXACT repository names -->
+
+<a href="https://www.google.com/search?q=https://github.com/Sohila-Khaled-Abbas/B2B-Retail-Analytics">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DSohila-Khaled-Abbas%26repo%3DB2B-Retail-Analytics%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="B2B Retail Analytics Repo" />
+</a>
+
+<a href="https://www.google.com/search?q=https://github.com/Sohila-Khaled-Abbas/SMART-Supply-Chain-Insights">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DSohila-Khaled-Abbas%26repo%3DSMART-Supply-Chain-Insights%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Supply Chain Insights Repo" />
+</a>
+
+<a href="https://www.google.com/search?q=https://github.com/Sohila-Khaled-Abbas/AB-Testing-Marketing-Campaign">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DSohila-Khaled-Abbas%26repo%3DAB-Testing-Marketing-Campaign%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="A/B Testing Repo" />
+</a>
 </div>
 
 <!-- ======================= GITHUB STATS & TROPHIES ======================= -->
