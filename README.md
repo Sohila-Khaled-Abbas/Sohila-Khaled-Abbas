@@ -91,7 +91,7 @@ specialty:
 ### Cloud Analytics
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-Cloud_Analytics-56B9EB?style=for-the-badge\&logo=snowflake\&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-Data%20Lakehouse-EE3D2C?style=for-the-badge\&logo=databricks\&logoColor=white)
 
 </div>
 
