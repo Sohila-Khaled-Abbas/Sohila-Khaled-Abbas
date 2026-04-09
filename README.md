@@ -94,14 +94,27 @@ Includes:
 
 ## 📈 GitHub Analytics
 
+## 📊 Engineering & Analytics Telemetry
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sohila-Khaled-Abbas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Sohila-Khaled-Abbas&theme=tokyonight&hide_border=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohila-Khaled-Abbas&layout=compact&langs_count=8&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sohila-Khaled-Abbas&theme=tokyonight" />
 
 </div>
 
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohila-Khaled-Abbas&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+### 📌 What this represents
+- **Commit streak → delivery consistency**
+- **Repo-per-language → technical depth**
+- **Activity graph → engineering velocity**
+- **Best for recruiters evaluating execution discipline**
 ---
 
 ## 🌐 Connect With Me
