@@ -125,13 +125,6 @@ specialty:
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sohila-Khaled-Abbas&theme=tokyonight" />
 </div>
 
-This replaces the snake with a **contribution intelligence map**, which is more aligned with a data analytics brand because it visualizes:
-
-* commit clustering
-* repo contribution density
-* time-based engineering flow
-* delivery patterns
-
 ---
 
 ## 🚀 Featured Analytics Repositories
