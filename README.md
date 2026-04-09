@@ -1,157 +1,146 @@
 <!--
-Sohila — Advanced GitHub Profile README
-Instructions: Create a repo named YOUR_GITHUB_USERNAME and paste this README.md there.
-Replace placeholders: YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_URL, YOUR_EMAIL, YOUR_PORTFOLIO_URL
+INSTRUCTIONS:
+
+Create a repository with exactly your GitHub username.
+
+Paste this code into the README.md file.
+
+IMPORTANT: Update the "repo=" fields in the Current Projects section to perfectly match your actual repository names, otherwise the cards will break.
 -->
 
-<!-- ======================= HERO (SVG banner + HTML header) ======================= -->
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D200%26section%3Dheader%26text%3DSohila%2520Khaled%26fontSize%3D50%26fontAlignY%3D35%26animation%3DfadeIn%26fontColor%3Dffffff" width="100%" />
+</div>
+
+<div align="center">
+<h3>📊 BI Developer | Data Analytics Engineer | Technical Mentor</h3>
+<p><i>Transforming fragmented data into scalable architectures and automated insights.</i></p>
+</div>
+
+👨‍💻 About Me
+
+I am a BI Developer focused on eliminating manual reporting workflows through robust data engineering. Rather than just building dashboards, I architect the automated ETL pipelines that feed them.
+
+Beyond technical execution, I am deeply committed to data literacy and community education. As a Technical Coach (DEPI) and a recognized Top 200 Arabic-speaking Data Influencer, I mentor professionals on translating complex analytics into actionable business frameworks.
+
+Current Focus: End-to-end data modeling (Star Schema), API integrations, and scalable BI infrastructure.
+
+Core Philosophy: Reliable pipelines precede accurate visualizations.
+
+Open to: Freelance BI architecture, ETL automation projects, and data consulting.
+
+🛠️ Technical Arsenal
 
 <div align="center">
 
-<!-- SVG banner generated from capsule-render (gradient + wave) -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=160&section=header&color=gradient&fontColor=ffffff" />
-
-<h1 align="center" style="margin-top:6px;">Sohila Khaled Abbas</h1>
-<p align="center" style="font-size:16px; margin-top:0;">
-<span style="font-weight:600;">BI Developer · Data Analytics Engineer · Technical Mentor</span>
+Data Engineering & Automation 
 
 
 
 
-
-<span style="opacity:0.85;">Architecting automated ETL pipelines, building scalable data models, and eliminating manual reporting workflows.</span>
-</p>
-
-</div>
-
-<!-- ======================= QUICK SNAPSHOT / VALUE ======================= -->
-
-<div align="center">
-
-🔎 Quick Snapshot
-
-Roles: BI Developer • Data Analytics Engineer • Technical Coach (DEPI)
-
-Focus: Interactive Power BI dashboards, ETL automation (Python/SQL/n8n), Web Scraping
-
-Recognition: Favikon — Top 200 Arabic-speaking Influencers in Egypt (data community impact)
-
-Audience: Technical Recruiters, BI Managers, Data Professionals
-
-</div>
-
-<!-- ======================= BADGE ROW (Quick status) ======================= -->
-
-<div align="center" markdown="1">
-<img alt="Open to freelance" src="https://img.shields.io/badge/Open%20to%20Freelance-YES-00bfa6?style=for-the-badge&logo=upwork" />
-<img alt="Mentor" src="https://img.shields.io/badge/Mentor-DEPI-0ea5a4?style=for-the-badge&logo=readthedocs" />
-<img alt="Top 200 Favikon" src="https://img.shields.io/badge/Top%20200-Favikon-6f42c1?style=for-the-badge" />
-<img alt="Content Creator" src="https://img.shields.io/badge/Content%20Creator-Engaging-0A66C2?style=for-the-badge&logo=linkedin" />
-</div>
-
-<!-- ======================= TECH STACK (Advanced grid with SVGs / shields) ======================= -->
-
-<h2 align="center">🛠️ Core Tech Stack & Tooling</h2>
-
-<div align="center">
-
-<!-- Compact grid using skillicons + shields -->
-
-<!-- Languages & Data -->
-
-<p><strong>Languages & Databases</strong></p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,postgres,mysql%26theme%3Ddark" alt="Langs and DBs" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,postgres,mysql" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/T--SQL-Queries-004aad%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/n8n-Automation-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dn8n%26logoColor%3Dwhite" />
 
-<p><strong>Data Engineering & ETL Automation</strong></p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/n8n-Workflow%2520Automation-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dn8n%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-Data%2520Cleaning-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/ETL-Pipelines-00AEEF?style=for-the-badge" />
 
-<p><strong>Business Intelligence & Data Modeling</strong></p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpowerbi,excel%26theme%3Ddark" alt="BI Tools" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/DAX-Measures-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Star_Schema-Modeling-6f42c1%3Fstyle%3Dfor-the-badge" />
 
-<p><strong>Web Scraping & Data Extraction</strong></p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Selenium-Browser%2520Automation-43B02A%3Fstyle%3Dfor-the-badge%26logo%3Dselenium" />
+
+
+
+Business Intelligence & Analytics 
+
+
+
+
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpowerbi,excel" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/DAX-Data_Modeling-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-Data_Cleaning-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
+
+
+
+
+
+
+Web Scraping & Extraction 
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Selenium-Browser_Automation-43B02A%3Fstyle%3Dfor-the-badge%26logo%3Dselenium%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/BeautifulSoup-Parsing-8A2BE2%3Fstyle%3Dfor-the-badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Requests-APIs-4b8bbe%3Fstyle%3Dfor-the-badge" />
-
-<p><strong>Cloud Environments (Familiarity)</strong></p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Databricks-Data_Lake-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Snowflake-Data_Warehouse-29B5E8%3Fstyle%3Dfor-the-badge%26logo%3Dsnowflake%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Requests-API_Integration-4b8bbe%3Fstyle%3Dfor-the-badge" />
 
 </div>
 
-<!-- Collapsible advanced badges gallery -->
+🚀 Current Projects & Architecture
 
-<details>
-<summary><strong>🔽 Methodologies & Statistical Skills (click to expand)</strong></summary>
-
-<div align="center" markdown="1">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/A%252FB%2520Testing-Hypothesis-F25C54%3Fstyle%3Dfor-the-badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/OLS%2520Regression-Modeling-0173b2%3Fstyle%3Dfor-the-badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Z--Score%2520%2526%2520IQR-Anomaly%2520Detection-0b5cff%3Fstyle%3Dfor-the-badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Agile-Methodology-8A63D2%3Fstyle%3Dfor-the-badge" />
-
-</div>
-</details>
-
-<!-- ======================= WHAT I'M WORKING ON ======================= -->
-
-<h2 align="center">📌 Featured Architecture & Projects</h2>
+Note: Click the cards to view the repository, including ETL scripts, SQL models, and business outcome documentation.
 
 <div align="center">
-<p><i>Note: The repositories below contain full ETL scripts, data models, and business outcome documentation.</i></p>
 
-<!-- IMPORTANT: Replace the "repo=" value with your EXACT repository names -->
+<!-- Project 1: Apple Stock -->
+
+<a href="https://www.google.com/search?q=https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DSohila-Khaled-Abbas%26repo%3Dapple-stock-market-analysis%26theme%3Dtokyonight%26hide_border%3Dtrue%26description_lines_count%3D2" alt="Apple Stock Analysis" />
+</a>
+
+
+
+
+<i>End-to-end data pipeline extracting, cleaning, and visualizing historical AAPL market data to extract quantitative investment strategies.</i>
+
+
+
+
+
+<!-- Project 2: B2B Retail -->
 
 <a href="https://www.google.com/search?q=https://github.com/Sohila-Khaled-Abbas/B2B-Retail-Analytics">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DSohila-Khaled-Abbas%26repo%3DB2B-Retail-Analytics%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="B2B Retail Analytics Repo" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DSohila-Khaled-Abbas%26repo%3DB2B-Retail-Analytics%26theme%3Dtokyonight%26hide_border%3Dtrue%26description_lines_count%3D2" alt="B2B Retail Analytics" />
 </a>
+
+
+
+
+<i>Architected a star-schema model processing 472K+ orders with custom DAX to track MoM churn and identify revenue leaks.</i>
+
+
+
+
+
+<!-- Project 3: Supply Chain -->
 
 <a href="https://www.google.com/search?q=https://github.com/Sohila-Khaled-Abbas/SMART-Supply-Chain-Insights">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DSohila-Khaled-Abbas%26repo%3DSMART-Supply-Chain-Insights%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Supply Chain Insights Repo" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DSohila-Khaled-Abbas%26repo%3DSMART-Supply-Chain-Insights%26theme%3Dtokyonight%26hide_border%3Dtrue%26description_lines_count%3D2" alt="Supply Chain Insights" />
 </a>
 
-<a href="https://www.google.com/search?q=https://github.com/Sohila-Khaled-Abbas/AB-Testing-Marketing-Campaign">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DSohila-Khaled-Abbas%26repo%3DAB-Testing-Marketing-Campaign%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="A/B Testing Repo" />
-</a>
+
+
+
+<i>Applied Z-score and IQR statistical methods in Python to detect shipping fraud and visualized logistical bottlenecks in Power BI.</i>
+
+
+
+
+
 </div>
 
-<!-- ======================= GITHUB STATS & TROPHIES ======================= -->
-
-<h2 align="center">📊 Activity Metrics</h2>
+📈 GitHub Analytics
 
 <div align="center">
-
-<!-- Stats -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sohila-Khaled-Abbas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Sohila's GitHub stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSohila-Khaled-Abbas%26show_icons%3Dtrue%26count_private%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohila-Khaled-Abbas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<!-- Trophies -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sohila-Khaled-Abbas&theme=onedark" alt="trophies" />
-
 </div>
 
-<!-- ======================= CONNECT & CTA ======================= -->
+📫 Let's Connect
 
-<h2 align="center">🤝 Let's Connect / Work Together</h2>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/sohilakabbas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:sohila.k.data@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.google.com/search?q=https://github.com/Sohila-Khaled-Abbas"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-View_Work-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Portfolio" /></a>
-</div>
-
-<!-- ======================= FOOTER (wave SVG) ======================= -->
+If you are looking to automate your data pipelines or need scalable BI architecture, let's talk.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=gradient" width="100%" alt="footer" />
-<p align="center" style="opacity:0.7;">© Sohila Khaled Abbas — BI Developer · Data Analytics Engineer</p>
+<a href="https://www.linkedin.com/in/sohilakabbas/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:agro.sohila.k.abbas@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Message_Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+</a>
 </div>
