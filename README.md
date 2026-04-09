@@ -84,7 +84,7 @@ specialty:
 ### Data Engineering
 
 ![Python](https://img.shields.io/badge/Python-Analytics_Engineering-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Performance_Tuning-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Performance_Tuning-336791?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data_Warehouse-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 
