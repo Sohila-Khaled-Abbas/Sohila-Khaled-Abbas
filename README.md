@@ -163,7 +163,7 @@
 <tr>
 <td>
 <b>Business Intelligence Developer</b><br/>
-<i>FlyRank AI • Chicago, IL (Remote)</i><br/>
+<i>Freelancer</i><br/>
 <code>Dec 2024 – Present</code>
 </td>
 <td>
