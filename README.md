@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30,35&height=260&section=header&text=Sohila%20Khaled%20Abbas&fontSize=46&fontAlign=50&fontAlignY=36&desc=Data%20%26%20Analytics%20Engineer%20%7C%20Kimball%20Data%20Warehouse%20Architect%20%7C%20BI%20Systems&descFontSize=18&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="./assets/header.svg" width="100%" alt="Sohila Khaled Abbas - Data & Analytics Engineer Header" />
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=From+Raw+Operational+Data+%E2%86%92+Auditable+Business+Decisions;Kimball+Dimensional+Modeling+%26+Star+Schema+Architecture;Production+ETL%2FELT+Automation+(Airflow%2C+Python%2C+n8n);Advanced+DAX+%26+High-Performance+Power+BI+Dashboards;Top+1+BI+%26+Data+Visualization+Creator+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
@@ -530,6 +532,6 @@ Stack: Python • PostgreSQL • SciPy • Statistical Inference
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=35,30,24,12,1&height=100&section=footer" width="100%" alt="Footer Banner" />
+<img src="./assets/footer.svg" width="100%" alt="Sohila Khaled Abbas Footer" />
 
 </div>
