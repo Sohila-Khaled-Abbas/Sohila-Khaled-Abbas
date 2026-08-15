@@ -11,13 +11,13 @@
 ### Data Analyst · BI Developer · Data Engineering Enthusiast
 
 <p align="center">
-  <a href="https://linkedin.com/in/sohilakabbas"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sohilakhaled-portfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:sohila.k.data@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/sohilakabbas"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sohilakhaled-portfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Case%20studies-2563EB?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio case studies" /></a>
+  <a href="mailto:sohila.k.data@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=flat&logo=gmail&logoColor=white" alt="Email contact" /></a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sohila-Khaled-Abbas&label=Profile%20views&color=555555&style=flat-square" alt="Profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sohila-Khaled-Abbas.Sohila-Khaled-Abbas&left_text=Visitors" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Sohila-Khaled-Abbas&label=Profile%20views&color=2563EB&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sohila-Khaled-Abbas.Sohila-Khaled-Abbas&left_text=Visitors&right_color=7C3AED&style=flat" alt="Profile visitors" />
 </p>
 
 </div>
@@ -91,24 +91,44 @@ Coach data practitioners through reusable templates, technical reviews, and prac
 ## Tech stack
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="./assets/icons/python.svg" width="32" height="32" alt="Python" title="Python" /></a>
-  <a href="https://pandas.pydata.org/"><img src="./assets/icons/pandas.svg" width="32" height="32" alt="Pandas" title="Pandas" /></a>
-  <a href="https://numpy.org/"><img src="./assets/icons/numpy.svg" width="32" height="32" alt="NumPy" title="NumPy" /></a>
-  <a href="https://www.postgresql.org/"><img src="./assets/icons/postgresql.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" /></a>
-  <a href="https://airflow.apache.org/"><img src="./assets/icons/apacheairflow.svg" width="32" height="32" alt="Apache Airflow" title="Apache Airflow" /></a>
-  <a href="https://www.docker.com/"><img src="./assets/icons/docker.svg" width="32" height="32" alt="Docker" title="Docker" /></a>
-  <a href="https://git-scm.com/"><img src="./assets/icons/git.svg" width="32" height="32" alt="Git" title="Git" /></a>
-  <a href="https://github.com/"><img src="./assets/icons/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></a>
+  <a href="https://www.python.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/python-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/python-light.svg" /><img src="./assets/icons/python-light.svg" width="32" height="32" alt="Python" title="Python" /></picture></a>
+  <a href="https://pandas.pydata.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/pandas-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/pandas-light.svg" /><img src="./assets/icons/pandas-light.svg" width="32" height="32" alt="Pandas" title="Pandas" /></picture></a>
+  <a href="https://numpy.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/numpy-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/numpy-light.svg" /><img src="./assets/icons/numpy-light.svg" width="32" height="32" alt="NumPy" title="NumPy" /></picture></a>
+  <a href="https://www.postgresql.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/postgresql-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/postgresql-light.svg" /><img src="./assets/icons/postgresql-light.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" /></picture></a>
+  <a href="https://airflow.apache.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/apacheairflow-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/apacheairflow-light.svg" /><img src="./assets/icons/apacheairflow-light.svg" width="32" height="32" alt="Apache Airflow" title="Apache Airflow" /></picture></a>
+  <a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/docker-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/docker-light.svg" /><img src="./assets/icons/docker-light.svg" width="32" height="32" alt="Docker" title="Docker" /></picture></a>
+  <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/git-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/git-light.svg" /><img src="./assets/icons/git-light.svg" width="32" height="32" alt="Git" title="Git" /></picture></a>
+  <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/github-light.svg" /><img src="./assets/icons/github-light.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://streamlit.io/"><img src="./assets/icons/streamlit.svg" width="32" height="32" alt="Streamlit" title="Streamlit" /></a>
-  <a href="https://scikit-learn.org/"><img src="./assets/icons/scikitlearn.svg" width="32" height="32" alt="scikit-learn" title="scikit-learn" /></a>
-  <a href="https://www.databricks.com/"><img src="./assets/icons/databricks.svg" width="32" height="32" alt="Databricks" title="Databricks" /></a>
-  <a href="https://www.snowflake.com/"><img src="./assets/icons/snowflake.svg" width="32" height="32" alt="Snowflake" title="Snowflake" /></a>
-  <a href="https://www.mysql.com/"><img src="./assets/icons/mysql.svg" width="32" height="32" alt="MySQL" title="MySQL" /></a>
-  <a href="https://redis.io/"><img src="./assets/icons/redis.svg" width="32" height="32" alt="Redis" title="Redis" /></a>
-  <a href="https://www.selenium.dev/"><img src="./assets/icons/selenium.svg" width="32" height="32" alt="Selenium" title="Selenium" /></a>
+  <a href="https://streamlit.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/streamlit-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/streamlit-light.svg" /><img src="./assets/icons/streamlit-light.svg" width="32" height="32" alt="Streamlit" title="Streamlit" /></picture></a>
+  <a href="https://scikit-learn.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/scikitlearn-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/scikitlearn-light.svg" /><img src="./assets/icons/scikitlearn-light.svg" width="32" height="32" alt="scikit-learn" title="scikit-learn" /></picture></a>
+  <a href="https://www.databricks.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/databricks-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/databricks-light.svg" /><img src="./assets/icons/databricks-light.svg" width="32" height="32" alt="Databricks" title="Databricks" /></picture></a>
+  <a href="https://www.snowflake.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/snowflake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/snowflake-light.svg" /><img src="./assets/icons/snowflake-light.svg" width="32" height="32" alt="Snowflake" title="Snowflake" /></picture></a>
+  <a href="https://www.mysql.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/mysql-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/mysql-light.svg" /><img src="./assets/icons/mysql-light.svg" width="32" height="32" alt="MySQL" title="MySQL" /></picture></a>
+  <a href="https://redis.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/redis-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/redis-light.svg" /><img src="./assets/icons/redis-light.svg" width="32" height="32" alt="Redis" title="Redis" /></picture></a>
+  <a href="https://www.selenium.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/selenium-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/icons/selenium-light.svg" /><img src="./assets/icons/selenium-light.svg" width="32" height="32" alt="Selenium" title="Selenium" /></picture></a>
+</p>
+
+## Repository-driven focus
+
+My repositories show a consistent path from **data ingestion to decision-ready products**. The strongest recurring themes are:
+
+- **Data platforms and warehousing:** Customer 360 banking ETL, National Insurance data warehousing, Global Horizon Bank DWH, Hive SCD Type 2 labs, and Kafka-based pipelines.
+- **Business intelligence:** Power BI solutions for S&OP, regional sales, HR, healthcare, supply chain, customer churn, marketing, and startup expansion.
+- **Applied analytics:** A/B testing, customer segmentation, financial analysis, job-market analysis, global layoffs, and operational KPI storytelling.
+- **Automation and AI:** n8n queue deployments, RAG indexing workflows, NL2SQL, sentiment analysis, job-market roadmap generation, and AI-assisted business workflows.
+
+## Languages and working tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Primary%20analytics%20language-3776AB?style=flat&logo=python&logoColor=white" alt="Python primary analytics language" />
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20PL%2FSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL PostgreSQL and PL SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-DAX%20%7C%20TMDL-F2C811?style=flat&logo=powerbi&logoColor=111827" alt="Power BI with DAX and TMDL" />
+  <img src="https://img.shields.io/badge/TypeScript-Data%20products-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript data products" />
+  <img src="https://img.shields.io/badge/Jupyter-Analysis%20notebooks-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter analysis notebooks" />
+  <img src="https://img.shields.io/badge/Streaming-Kafka%20%7C%20Spark-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka and Spark streaming" />
 </p>
 
 ## Experience highlights
