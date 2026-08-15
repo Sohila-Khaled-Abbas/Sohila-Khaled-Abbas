@@ -1,0 +1,34 @@
+name: Update profile metrics
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/metrics.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate repository-owned metrics SVG
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: assets/metrics.svg
+          user: ${{ github.repository_owner }}
+          config_timezone: Africa/Cairo
+          config_display: large
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 5
+          plugin_languages_details: bytes-size,percentage
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_repositories: yes
+          plugin_repositories_featured: Sohila-Khaled-Abbas/deep-clean-data-tool,Sohila-Khaled-Abbas/customer-360-banking-etl,Sohila-Khaled-Abbas/SMART-Supply-Chain-Insights-Dashboard
+          plugins_errors_fatal: no

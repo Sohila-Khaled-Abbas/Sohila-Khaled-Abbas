@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header.svg" />
-  <img src="./assets/header.svg" alt="Animated analytics engineering header with data-flow lines and terminal code" width="100%" />
-</picture>
-
 # Sohila Khaled Abbas
 
 ### Data Analyst · BI Developer · Data Engineering Enthusiast
@@ -15,33 +9,17 @@
   <a href="https://sohilakhaled-portfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:sohila.k.data@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Sohila-Khaled-Abbas&label=Profile%20views&color=555555&style=flat-square" alt="Profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sohila-Khaled-Abbas.Sohila-Khaled-Abbas&left_text=Visitors" alt="Profile visitors" />
 </p>
 
 </div>
 
 > I turn operational data into clear, auditable decisions through reliable pipelines, dimensional models, and practical business intelligence.
 
-## Currently working on
-
-- Building and refining **Power BI analytics solutions** for sales, HR, and operational reporting, with a focus on actionable KPIs and DAX-driven models.
-- Strengthening my **analytics engineering toolkit** through dbt study notes, dimensional modeling, SQL optimization, and repeatable transformation patterns.
-- Developing reliable **Python and SQL ETL workflows** for API integration, data validation, PostgreSQL warehousing, and decision-ready reporting.
-- Supporting aspiring data professionals through **technical coaching, reusable BI templates, and code reviews**.
-
 ## About
 
 I am a data professional based in **Damietta, Egypt**, focused on building analytics solutions that connect sound data architecture with measurable business outcomes. My work spans **Power BI, SQL, Python, ETL automation, data warehousing, and statistical analysis**.
 
 I enjoy simplifying complex workflows, improving reporting reliability, and helping aspiring analysts build production-ready technical habits through coaching and code review.
-
-## Analytics architecture
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/analytics-pipeline-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/analytics-pipeline-light.svg" />
-  <img src="./assets/analytics-pipeline-light.svg" alt="Analytics pipeline from raw data through ETL, warehouse, semantic model, and business intelligence decision" width="100%" />
-</picture>
 
 ## What I do
 
@@ -67,10 +45,10 @@ I enjoy simplifying complex workflows, improving reporting reliability, and help
 
 </details>
 
-## Tech stack
+## Technical toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,postgres,azure,docker,git,github,airflow,dbt,powerbi,streamlit,sklearn&perline=6" alt="Python, Pandas, PostgreSQL, Azure, Docker, Git, GitHub, Airflow, dbt, Power BI, Streamlit, and scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,postgres,azure,docker,git,github" alt="Python, Pandas, PostgreSQL, Azure, Docker, Git, and GitHub" />
 </p>
 
 <p align="center">
@@ -99,24 +77,13 @@ I enjoy simplifying complex workflows, improving reporting reliability, and help
 
 ## GitHub activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/metrics.svg" />
-    <img src="./assets/metrics.svg" alt="GitHub contribution metrics for Sohila Khaled Abbas" width="850" />
-  </picture>
-</p>
+<div align="center">
 
-<details>
-<summary><strong>Contribution animation</strong></summary>
+<a href="https://github.com/Sohila-Khaled-Abbas">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohila-Khaled-Abbas&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default" alt="Sohila's GitHub contribution statistics" width="495" />
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img src="./assets/github-snake.svg" alt="Animated snake moving through the GitHub contribution graph" width="100%" />
-</picture>
-
-</details>
+</div>
 
 ## Credentials
 
@@ -135,11 +102,5 @@ I am open to conversations about **data analysis, business intelligence, analyti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sohila%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohilakabbas)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Case%20Studies-FF4B4B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sohilakhaled-portfolio.lovable.app)
 [![Email](https://img.shields.io/badge/Email-sohila.k.data%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohila.k.data@gmail.com)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer.svg" />
-  <img src="./assets/footer.svg" alt="Animated analytics footer with flowing data points and a star-schema network" width="100%" />
-</picture>
 
 </div>

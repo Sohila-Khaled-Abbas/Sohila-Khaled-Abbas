@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Sohila Khaled Abbas GitHub metrics</title>
+  <desc id="desc">Fallback GitHub metrics card showing contributions, public repositories, followers, and focus areas. Updated automatically by GitHub Actions when the metrics workflow runs.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#f8fafc"/><stop offset="1" stop-color="#eff6ff"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="7" flood-color="#1e3a8a" flood-opacity=".14"/></filter></defs>
+  <rect width="900" height="220" rx="22" fill="url(#bg)"/>
+  <text x="36" y="42" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="700" fill="#0f172a">GitHub activity snapshot</text>
+  <text x="36" y="67" font-family="Inter,Arial,sans-serif" font-size="12" fill="#64748b">Repository-owned fallback card · refreshed by the metrics workflow</text>
+  <g font-family="Inter,Arial,sans-serif" text-anchor="middle" filter="url(#shadow)">
+    <g transform="translate(36 92)"><rect width="190" height="84" rx="15" fill="#fff" stroke="#bfdbfe"/><text x="95" y="35" font-size="27" font-weight="750" fill="#2563eb">666</text><text x="95" y="59" font-size="12" fill="#64748b">contributions</text></g>
+    <g transform="translate(246 92)"><rect width="190" height="84" rx="15" fill="#fff" stroke="#c7d2fe"/><text x="95" y="35" font-size="27" font-weight="750" fill="#4f46e5">78</text><text x="95" y="59" font-size="12" fill="#64748b">public repositories</text></g>
+    <g transform="translate(456 92)"><rect width="190" height="84" rx="15" fill="#fff" stroke="#ddd6fe"/><text x="95" y="35" font-size="27" font-weight="750" fill="#7c3aed">88</text><text x="95" y="59" font-size="12" fill="#64748b">followers</text></g>
+    <g transform="translate(666 92)"><rect width="198" height="84" rx="15" fill="#fff" stroke="#bbf7d0"/><text x="99" y="35" font-size="19" font-weight="750" fill="#15803d">BI · ETL · SQL</text><text x="99" y="59" font-size="12" fill="#64748b">current focus</text></g>
+  </g>
+</svg>

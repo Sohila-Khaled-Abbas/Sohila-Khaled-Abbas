@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution activity visualization</title>
+  <desc id="desc">Repository-owned placeholder that will be replaced by the animated contribution snake workflow.</desc>
+  <rect width="1000" height="180" rx="20" fill="#f6f8fa"/>
+  <text x="40" y="44" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#24292f">Contribution journey</text>
+  <text x="40" y="68" font-family="Inter,Arial,sans-serif" font-size="12" fill="#57606a">The animated contribution graph is generated automatically by GitHub Actions.</text>
+  <g transform="translate(40 96)" fill="#9be9a8">
+    <rect width="14" height="14" rx="3"/><rect x="22" width="14" height="14" rx="3" fill="#40c463"/><rect x="44" width="14" height="14" rx="3" fill="#30a14e"/><rect x="66" width="14" height="14" rx="3" fill="#216e39"/>
+    <rect x="110" width="14" height="14" rx="3" fill="#40c463"/><rect x="132" width="14" height="14" rx="3"/><rect x="154" width="14" height="14" rx="3" fill="#216e39"/><rect x="176" width="14" height="14" rx="3" fill="#30a14e"/>
+    <rect x="220" width="14" height="14" rx="3" fill="#216e39"/><rect x="242" width="14" height="14" rx="3" fill="#40c463"/><rect x="264" width="14" height="14" rx="3"/><rect x="286" width="14" height="14" rx="3" fill="#30a14e"/>
+    <rect x="330" width="14" height="14" rx="3" fill="#30a14e"/><rect x="352" width="14" height="14" rx="3" fill="#216e39"/><rect x="374" width="14" height="14" rx="3"/><rect x="396" width="14" height="14" rx="3" fill="#40c463"/>
+    <rect x="440" width="14" height="14" rx="3" fill="#40c463"/><rect x="462" width="14" height="14" rx="3" fill="#216e39"/><rect x="484" width="14" height="14" rx="3" fill="#30a14e"/><rect x="506" width="14" height="14" rx="3"/>
+    <rect x="550" width="14" height="14" rx="3" fill="#216e39"/><rect x="572" width="14" height="14" rx="3" fill="#30a14e"/><rect x="594" width="14" height="14" rx="3" fill="#40c463"/><rect x="616" width="14" height="14" rx="3"/>
+    <rect x="660" width="14" height="14" rx="3"/><rect x="682" width="14" height="14" rx="3" fill="#30a14e"/><rect x="704" width="14" height="14" rx="3" fill="#216e39"/><rect x="726" width="14" height="14" rx="3" fill="#40c463"/>
+    <rect x="770" width="14" height="14" rx="3" fill="#40c463"/><rect x="792" width="14" height="14" rx="3"/><rect x="814" width="14" height="14" rx="3" fill="#30a14e"/><rect x="836" width="14" height="14" rx="3" fill="#216e39"/>
+  </g>
+</svg>
