@@ -167,7 +167,7 @@ My repositories show a consistent path from **data ingestion to decision-ready p
   <img src="./assets/visitor-analytics.svg" alt="Visitor analytics chart showing GitHub traffic views and unique visitors" width="100%" />
 </a>
 
-<p align="center"><sub>Daily observations are collected from the GitHub Traffic API and persisted in the repository. Click the chart to view the refresh workflow.</sub></p>
+<p align="center"><sub>Weekly observations are collected from the GitHub Traffic API and persisted in the repository. Click the chart to view the refresh workflow.</sub></p>
 
 </details>
 
