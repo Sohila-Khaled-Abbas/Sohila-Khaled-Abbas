@@ -1,0 +1,29 @@
+name: Check README mobile layout
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - "assets/**"
+      - "scripts/check_readme_mobile.py"
+      - ".github/workflows/readme-mobile-check.yml"
+  pull_request:
+    paths:
+      - "README.md"
+      - "assets/**"
+      - "scripts/check_readme_mobile.py"
+      - ".github/workflows/readme-mobile-check.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  mobile-readability:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate README mobile patterns and SVG assets
+        run: python3 scripts/check_readme_mobile.py

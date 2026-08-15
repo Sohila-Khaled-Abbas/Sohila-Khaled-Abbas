@@ -26,8 +26,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/github-snake.svg?palette=github-light
-            assets/github-snake-dark.svg?palette=github-dark
+            assets/github-snake.svg?color_snake=%237c3aed&color_dots=%23e2e8f0,%23bae6fd,%2360a5fa,%232563eb,%237c3aed
+            assets/github-snake-dark.svg?color_snake=%2322d3ee&color_dots=%230b1220,%230e7490,%230ea5e9,%2322d3ee,%23a78bfa&color_background=%230b1220
 
       - name: Commit and push generated assets
         run: |
