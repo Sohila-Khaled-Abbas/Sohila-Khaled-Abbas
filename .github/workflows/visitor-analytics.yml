@@ -22,13 +22,27 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      - name: Collect traffic and render visitor chart
+      - name: Check traffic token availability
+        id: traffic-token
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+        run: |
+          if [ -n "$TRAFFIC_TOKEN" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "TRAFFIC_TOKEN is not configured; preserving the last valid chart snapshot."
+          fi
+
+      - name: Collect traffic and render visitor chart
+        if: steps.traffic-token.outputs.enabled == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python3 scripts/update_visitor_chart.py
 
       - name: Commit and push visitor analytics
+        if: steps.traffic-token.outputs.enabled == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
