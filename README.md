@@ -70,24 +70,25 @@ I enjoy simplifying complex workflows, improving reporting reliability, and help
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,postgres,azure,docker,git,github,airflow,dbt,powerbi,streamlit,sklearn&perline=6" alt="Python, Pandas, PostgreSQL, Azure, Docker, Git, GitHub, Airflow, dbt, Power BI, Streamlit, and scikit-learn" />
+  <a href="https://www.python.org/"><img src="./assets/icons/python.svg" width="42" height="42" alt="Python" title="Python" /></a>
+  <a href="https://pandas.pydata.org/"><img src="./assets/icons/pandas.svg" width="42" height="42" alt="Pandas" title="Pandas" /></a>
+  <a href="https://numpy.org/"><img src="./assets/icons/numpy.svg" width="42" height="42" alt="NumPy" title="NumPy" /></a>
+  <a href="https://www.postgresql.org/"><img src="./assets/icons/postgresql.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" /></a>
+  <a href="https://airflow.apache.org/"><img src="./assets/icons/apacheairflow.svg" width="42" height="42" alt="Apache Airflow" title="Apache Airflow" /></a>
+  <a href="https://www.docker.com/"><img src="./assets/icons/docker.svg" width="42" height="42" alt="Docker" title="Docker" /></a>
+  <a href="https://git-scm.com/"><img src="./assets/icons/git.svg" width="42" height="42" alt="Git" title="Git" /></a>
+  <a href="https://github.com/"><img src="./assets/icons/github.svg" width="42" height="42" alt="GitHub" title="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced%20DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20T--SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Airflow-ETL%20orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/dbt-Analytics%20engineering-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Kimball-Star%20schema-6E40C9?style=flat-square" alt="Kimball dimensional modeling" />
-  <img src="https://img.shields.io/badge/Statistics-A%2FB%20testing%20%7C%20regression-2E8B57?style=flat-square" alt="Statistics" />
+  <a href="https://streamlit.io/"><img src="./assets/icons/streamlit.svg" width="42" height="42" alt="Streamlit" title="Streamlit" /></a>
+  <a href="https://scikit-learn.org/"><img src="./assets/icons/scikitlearn.svg" width="42" height="42" alt="scikit-learn" title="scikit-learn" /></a>
+  <a href="https://www.databricks.com/"><img src="./assets/icons/databricks.svg" width="42" height="42" alt="Databricks" title="Databricks" /></a>
+  <a href="https://www.snowflake.com/"><img src="./assets/icons/snowflake.svg" width="42" height="42" alt="Snowflake" title="Snowflake" /></a>
+  <a href="https://www.mysql.com/"><img src="./assets/icons/mysql.svg" width="42" height="42" alt="MySQL" title="MySQL" /></a>
+  <a href="https://redis.io/"><img src="./assets/icons/redis.svg" width="42" height="42" alt="Redis" title="Redis" /></a>
+  <a href="https://www.selenium.dev/"><img src="./assets/icons/selenium.svg" width="42" height="42" alt="Selenium" title="Selenium" /></a>
 </p>
-
-<details>
-<summary><strong>Additional tools</strong></summary>
-
-`NumPy` · `Selenium` · `Power Query` · `Excel/VBA` · `Databricks` · `Snowflake` · `Informatica CDI` · `Azure Data Factory` · `Streamlit` · `SciPy`
-
-</details>
 
 ## Experience highlights
 
@@ -115,6 +116,17 @@ I enjoy simplifying complex workflows, improving reporting reliability, and help
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img src="./assets/github-snake.svg" alt="Animated snake moving through the GitHub contribution graph" width="100%" />
 </picture>
+
+</details>
+
+<details open>
+<summary><strong>Visitor analytics</strong></summary>
+
+<a href="https://github.com/Sohila-Khaled-Abbas/Sohila-Khaled-Abbas/actions/workflows/visitor-analytics.yml">
+  <img src="./assets/visitor-analytics.svg" alt="Visitor analytics chart showing GitHub traffic views and unique visitors" width="100%" />
+</a>
+
+<p align="center"><sub>Daily observations are collected from the GitHub Traffic API and persisted in the repository. Click the chart to view the refresh workflow.</sub></p>
 
 </details>
 
