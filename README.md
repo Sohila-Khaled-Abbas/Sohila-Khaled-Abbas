@@ -75,6 +75,16 @@ I enjoy simplifying complex workflows, improving reporting reliability, and help
 - Reduced query execution time by **25%** across 10 GB retail datasets through indexing, partitioning, and T-SQL refactoring.
 - Conducted **100+ technical code reviews** and supported **50+ trainees** through reusable BI and analytics templates.
 
+## GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/Sohila-Khaled-Abbas">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohila-Khaled-Abbas&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default" alt="Sohila's GitHub contribution statistics" width="495" />
+</a>
+
+</div>
+
 ## Credentials
 
 - **B.Sc. in Agricultural Sciences**, Damietta University, 2024
