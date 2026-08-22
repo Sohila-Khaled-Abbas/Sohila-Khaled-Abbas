@@ -28,4 +28,45 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Check README links, local assets, and badge endpoints
-        run: python3 scripts/check_readme_links.py
+        id: validation
+        shell: bash
+        run: |
+          set +e
+          python3 scripts/check_readme_links.py 2>&1 | tee readme-link-report.txt
+          exit_code=${PIPESTATUS[0]}
+          if [ "$exit_code" -eq 0 ]; then
+            result="passed"
+          else
+            result="failed"
+          fi
+          {
+            echo "exit_code=$exit_code"
+            echo "result=$result"
+          } >> "$GITHUB_OUTPUT"
+          {
+            echo "## README link and badge validation"
+            echo ""
+            echo "**Result:** \\`$result\\`"
+            echo ""
+            echo "**Run:** $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+            echo ""
+            echo '```text'
+            cat readme-link-report.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          exit 0
+
+      - name: Upload validation report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: readme-link-report-${{ github.run_number }}
+          path: readme-link-report.txt
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Mark validation failure
+        if: steps.validation.outputs.exit_code != '0'
+        run: |
+          echo "README link and badge validation failed; see the job summary and uploaded report."
+          exit 1
