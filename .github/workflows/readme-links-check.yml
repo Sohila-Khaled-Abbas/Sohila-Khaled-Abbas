@@ -1,0 +1,31 @@
+name: Check README links and badges
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - "assets/**"
+      - "scripts/check_readme_links.py"
+      - ".github/workflows/readme-links-check.yml"
+  pull_request:
+    paths:
+      - "README.md"
+      - "assets/**"
+      - "scripts/check_readme_links.py"
+      - ".github/workflows/readme-links-check.yml"
+  workflow_dispatch:
+  schedule:
+    - cron: "41 3 * * 1" # Every Monday at 03:41 UTC
+
+permissions:
+  contents: read
+
+jobs:
+  readme-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check README links, local assets, and badge endpoints
+        run: python3 scripts/check_readme_links.py
