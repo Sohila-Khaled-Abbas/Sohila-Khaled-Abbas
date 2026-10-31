@@ -1,0 +1,80 @@
+name: Sync profile README
+
+on:
+  schedule:
+    - cron: '37 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'profile.config.json'
+      - 'templates/README.md'
+      - 'scripts/sync_profile.py'
+      - 'tests/test_sync_profile.py'
+      - '.github/workflows/sync-profile.yml'
+  pull_request:
+    paths:
+      - 'profile.config.json'
+      - 'templates/README.md'
+      - 'scripts/sync_profile.py'
+      - 'tests/test_sync_profile.py'
+      - '.github/workflows/sync-profile.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-readme-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test discovery, rendering, privacy, and failure handling
+        run: python3 -m unittest discover -s tests -v
+      - name: Check mobile layout and local visuals
+        run: python3 scripts/check_readme_mobile.py
+
+  refresh:
+    needs: validate
+    if: github.event_name != 'pull_request' && github.repository == 'Sohila-Khaled-Abbas/Sohila-Khaled-Abbas'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Refresh from public portfolio content and public GitHub repositories
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/sync_profile.py
+      - name: Validate generated layout and SVGs
+        run: python3 scripts/check_readme_mobile.py
+      - name: Commit only changed profile files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md assets/header.svg
+          if git diff --cached --quiet; then
+            echo 'Profile already matches its public sources.' >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          git commit -m 'chore(profile): sync public portfolio and projects'
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo 'Profile refreshed from public portfolio and GitHub sources.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            git fetch origin main
+            git rebase origin/main
+          done
+          echo 'Could not publish profile changes; inspect branch rules or concurrent edits.' >&2
+          exit 1

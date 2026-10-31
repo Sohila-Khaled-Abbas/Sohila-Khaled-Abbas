@@ -1,0 +1,26 @@
+{
+  "owner": "Sohila-Khaled-Abbas",
+  "portfolio_repository": "Sohila-Khaled-Abbas/sohila-k-abbas-website",
+  "portfolio_branch": "main",
+  "portfolio_content_path": "portfolio-site/content",
+  "recent_limit": 5,
+  "ignored_websites": [
+    "https://the-data-tea.vercel.app",
+    "https://sohila-khaled-abbas.github.io/flyrank-ml-internship-starter"
+  ],
+  "featured": [
+    {"repo": "pixelfed-analytics-engineering", "title": "PixelFed Analytics Engineering"},
+    {"repo": "egyptian-cosmetics-market", "title": "Egyptian Cosmetics Analytics Engineering"},
+    {"repo": "n8n-production-queue-setup", "title": "n8n Queue & Worker Stack"},
+    {"repo": "fmcg-sales-churn-drop-analysis-powerbi", "title": "B2B Retail Analytics & Churn"},
+    {"repo": "kickstarter-analytics-engineering", "title": "Kickstarter Analytics Engineering"},
+    {"repo": "forward-deployed-engineer-roadmap", "title": "Forward Deployed Engineer Roadmap"}
+  ],
+  "learning": [
+    {"repo": "forward-deployed-engineer-roadmap", "title": "Forward Deployed Engineering", "focus": "Customer discovery, application engineering, production AI, and delivery."},
+    {"repo": "data-engineering-learning-roadmap", "title": "Data Engineering Learning Roadmap", "focus": "SQL, Python, pipelines, data platforms, and engineering foundations."},
+    {"repo": "udemy-networking-fundamentals", "title": "Networking labs", "focus": "TCP/UDP, HTTP, TLS, and backend networking."},
+    {"repo": "fundamentals-of-operating-systems-labs", "title": "Operating systems labs", "focus": "Processes, memory, concurrency, and systems practice."},
+    {"repo": "COURSE-EXCEL-ZERO-TO-HERO", "title": "Excel Zero to Hero", "focus": "Reusable learning materials for Excel and business analysis."}
+  ]
+}
