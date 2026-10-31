@@ -11,18 +11,77 @@
     "https://www.udemy.com/share/102A1K3@iAM-HIjlSe25MC6f4c3TeZN_IWzkGwj7YnPP-Am-ZTf4pXW2kPYlHCx1j9wg8Zd2UQ=="
   ],
   "featured": [
-    {"repo": "pixelfed-analytics-engineering", "title": "PixelFed Analytics Engineering"},
-    {"repo": "egyptian-cosmetics-market", "title": "Egyptian Cosmetics Analytics Engineering"},
-    {"repo": "n8n-production-queue-setup", "title": "n8n Queue & Worker Stack"},
-    {"repo": "fmcg-sales-churn-drop-analysis-powerbi", "title": "B2B Retail Analytics & Churn"},
-    {"repo": "kickstarter-analytics-engineering", "title": "Kickstarter Analytics Engineering"},
-    {"repo": "forward-deployed-engineer-roadmap", "title": "Forward Deployed Engineer Roadmap"}
+    {
+      "repo": "python-learning-roadmap",
+      "title": "Python Learning Roadmap"
+    },
+    {
+      "repo": "pixelfed-analytics-engineering",
+      "title": "PixelFed Analytics Engineering"
+    },
+    {
+      "repo": "egyptian-cosmetics-market",
+      "title": "Egyptian Cosmetics Analytics Engineering"
+    },
+    {
+      "repo": "n8n-production-queue-setup",
+      "title": "n8n Queue & Worker Stack"
+    },
+    {
+      "repo": "fmcg-sales-churn-drop-analysis-powerbi",
+      "title": "B2B Retail Analytics & Churn"
+    },
+    {
+      "repo": "kickstarter-analytics-engineering",
+      "title": "Kickstarter Analytics Engineering"
+    },
+    {
+      "repo": "forward-deployed-engineer-roadmap",
+      "title": "Forward Deployed Engineer Roadmap"
+    }
   ],
   "learning": [
-    {"repo": "forward-deployed-engineer-roadmap", "title": "Forward Deployed Engineering", "focus": "Customer discovery, application engineering, production AI, and delivery."},
-    {"repo": "data-engineering-learning-roadmap", "title": "Data Engineering Learning Roadmap", "focus": "SQL, Python, pipelines, data platforms, and engineering foundations."},
-    {"repo": "udemy-networking-fundamentals", "title": "Networking labs", "focus": "TCP/UDP, HTTP, TLS, and backend networking."},
-    {"repo": "fundamentals-of-operating-systems-labs", "title": "Operating systems labs", "focus": "Processes, memory, concurrency, and systems practice."},
-    {"repo": "COURSE-EXCEL-ZERO-TO-HERO", "title": "Excel Zero to Hero", "focus": "Reusable learning materials for Excel and business analysis."}
-  ]
+    {
+      "repo": "python-learning-roadmap",
+      "title": "Python Learning Roadmap",
+      "focus": "Boot.dev chapters, ITI Arabic, Harvard CS50P, original exercises, and a practical route to tested data pipelines."
+    },
+    {
+      "repo": "forward-deployed-engineer-roadmap",
+      "title": "Forward Deployed Engineering",
+      "focus": "Customer discovery, application engineering, production AI, and delivery."
+    },
+    {
+      "repo": "data-engineering-learning-roadmap",
+      "title": "Data Engineering Learning Roadmap",
+      "focus": "SQL, Python, pipelines, data platforms, and engineering foundations."
+    },
+    {
+      "repo": "udemy-networking-fundamentals",
+      "title": "Networking labs",
+      "focus": "TCP/UDP, HTTP, TLS, and backend networking."
+    },
+    {
+      "repo": "fundamentals-of-operating-systems-labs",
+      "title": "Operating systems labs",
+      "focus": "Processes, memory, concurrency, and systems practice."
+    },
+    {
+      "repo": "COURSE-EXCEL-ZERO-TO-HERO",
+      "title": "Excel Zero to Hero",
+      "focus": "Reusable learning materials for Excel and business analysis."
+    }
+  ],
+  "learning_discovery": {
+    "enabled": true,
+    "name_pattern": "roadmap|learning-resources|second-brain|(?:^|-)labs(?:$|-)|(?:^|-)course(?:$|-)",
+    "topics": [
+      "learning",
+      "roadmap",
+      "learning-roadmap",
+      "tutorial",
+      "education"
+    ]
+  }
 }
+

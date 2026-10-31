@@ -114,6 +114,21 @@ def badge(label: str, target: str, color: str) -> str:
     return f'<a href="{html.escape(target, quote=True)}"><img src="{src}" alt="{html.escape(label, quote=True)}" /></a>'
 
 
+def discover_learning(projects: list[dict], config: dict) -> list[dict]:
+    """Additional learning repos from the already-filtered public original catalog."""
+    discovery = config.get("learning_discovery", {})
+    if not discovery.get("enabled"):
+        return []
+    selected = {item["repo"].casefold() for item in config.get("learning", [])}
+    pattern = re.compile(discovery.get("name_pattern", "roadmap"), re.IGNORECASE)
+    topics = {str(item).casefold() for item in discovery.get("topics", [])}
+    return sorted((repo for repo in projects
+                   if not repo.get("archived") and repo["name"].casefold() not in selected
+                   and (pattern.search(repo["name"]) or topics.intersection(
+                       str(item).casefold() for item in repo.get("topics", [])))),
+                  key=lambda repo: repo["name"].casefold())
+
+
 def render(profile: dict, repositories: list[dict], details: dict, statuses: dict, config: dict, template: str) -> tuple[str, str]:
     validate_sources(profile, details, statuses)
     owner = config["owner"]
@@ -184,6 +199,15 @@ def render(profile: dict, repositories: list[dict], details: dict, statuses: dic
 
     blocks["SKILLS"] = "\n".join(f'- **{text(group["title"])}:** ' + ", ".join(text(item) for item in group["items"]) for group in profile["skill_groups"])
     blocks["LEARNING"] = "\n".join(f'- **{link(item["title"], live(by_name[item["repo"]]) or repo_url(item["repo"]))}** — {text(item["focus"])}' for item in config["learning"] if item["repo"] in by_name)
+    discovered = discover_learning(projects, config)
+    if discovered:
+        extra = []
+        for repo in discovered:
+            name = repo["name"]
+            label = curated.get(name, {}).get("title") or name.replace("-", " ").replace("_", " ").title()
+            extra.append(f'- **{link(label, live(repo) or repo_url(name))}** — {summary(repo)}')
+        blocks["LEARNING"] += (f'\n\n<details>\n<summary><strong>More learning repositories · {len(discovered)} automatically discovered</strong></summary>\n\n'
+                               + "\n\n".join(extra) + "\n\n</details>")
 
     education = profile["education"]
     blocks["BACKGROUND"] = '<details>\n<summary><strong>Background, experience & training</strong></summary>\n\n'
@@ -298,3 +322,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+

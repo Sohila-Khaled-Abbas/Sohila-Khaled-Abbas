@@ -56,6 +56,22 @@ class ProfileSyncTests(unittest.TestCase):
         self.assertIn("[brand-new-project]", result)
         self.assertIn("2026-10-31", result)
 
+    def test_new_learning_repo_is_discovered_with_current_website(self):
+        repos = self.repos + [repository("new-python-roadmap", homepage="https://learning.example/python", description="Original Python labs.")]
+        result = self.render(repos)
+        learning = result.split("## Learning in the open")[1].split("Background, experience")[0]
+        self.assertIn("https://learning.example/python", learning)
+        self.assertIn("Original Python labs.", learning)
+        self.assertIn("automatically discovered", learning)
+
+    def test_learning_discovery_deduplicates_and_excludes_private_forks_archives(self):
+        repos = self.repos + [repository("python-learning-roadmap"), repository("private-roadmap", private=True),
+                             repository("fork-roadmap", fork=True), repository("old-roadmap", archived=True),
+                             repository("reference", topics=["education"])]
+        projects = sync.public_projects(repos, self.config["owner"])
+        discovered = sync.discover_learning(projects, self.config)
+        self.assertEqual([r["name"] for r in discovered], ["reference"])
+
     def test_missing_or_private_featured_project_is_removed(self):
         result = self.render([repository("another-project"), repository("pixelfed-analytics-engineering", private=True)])
         self.assertNotIn("pixelfed-analytics-engineering", result)
@@ -171,3 +187,4 @@ class ProfileSyncTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+

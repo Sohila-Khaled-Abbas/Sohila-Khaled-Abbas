@@ -10,7 +10,8 @@ The profile shares its professional content with [Sohila’s portfolio](https://
 | Explicit project status and current focus | Portfolio `content/project-status.json` |
 | Project preview links and fallback summaries/live links | Portfolio `content/project-details.json` |
 | New repositories, descriptions, Website links, archive labels, and activity dates | GitHub’s public `/users/Sohila-Khaled-Abbas/repos` endpoint, with complete pagination |
-| Featured project selection and learning links | Local `profile.config.json` |
+| Featured project selection and preferred learning links | Local `profile.config.json` |
+| Additional learning repositories | Automatically discovered from public original repository names and topics using `learning_discovery` |
 | Page structure and the manually written learning focus | Local `templates/README.md` |
 
 The banner is generated with the current name and role. The full project collection includes every public original repository except the profile repository itself, including clearly labeled archives. Forks, private repositories, and repositories owned by other accounts are excluded. Featured and learning entries must still exist in the current public list to appear.
@@ -26,6 +27,8 @@ This is periodic synchronization. GitHub can delay scheduled runs, and the portf
 The workflow uses GitHub’s built-in ephemeral `GITHUB_TOKEN`; no PAT, Vercel secret, additional service, or ChatGPT scheduled task is needed. Write permission is scoped to this profile repository. The portfolio repository is only read, at one resolved commit so its three content files form a consistent snapshot.
 
 ## Edit content
+
+The Python Learning Roadmap is featured and included in the preferred learning links. Its public GitHub Pages URL and metadata follow the repository’s Website and description fields. Additional public original learning repos are discovered from roadmap/lab/course names or learning-related topics and shown in an expandable learning list. Configured learning links stay first, duplicates are omitted, and archived/private/forked repos are excluded from automatic discovery.
 
 1. Update your portfolio `profile.json` for a changed role, skill, training item, or contact link.
 2. Update portfolio `project-status.json` for project status and active focus.
@@ -65,3 +68,4 @@ Pull requests run validation with read-only permissions; they do not publish. A 
 - [Public repository listing and pagination](https://docs.github.com/en/rest/repos/repos#list-repositories-for-a-user)
 - [Scheduled workflow behavior](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)
 - [GITHUB_TOKEN and workflow triggering](https://docs.github.com/en/actions/concepts/security/github_token)
+
