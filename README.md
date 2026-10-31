@@ -33,6 +33,10 @@ I work across data and analytics engineering, machine learning, and business int
 
 ## Selected projects
 
+- **[Python Learning Roadmap](https://github.com/Sohila-Khaled-Abbas/python-learning-roadmap)**<br>
+  A practical Python roadmap for data &amp; analytics engineering: Boot.dev course chapters, ITI Arabic, Harvard CS50P, original labs, SQL, pandas, APIs, and portfolio projects. Interactive GitHub Pages learning map.<br>
+  [Project preview](https://sohila-khaled-abbas.vercel.app/projects/python-learning-roadmap/) · [Website / report](https://sohila-khaled-abbas.github.io/python-learning-roadmap/)
+
 - **[PixelFed Analytics Engineering](https://github.com/Sohila-Khaled-Abbas/pixelfed-analytics-engineering)** · **In progress**<br>
   Production-Grade Analytics Engineering Lakehouse, Multi-Format Ingestion Engine, and Power BI Semantic Model<br>
   [Project preview](https://sohila-khaled-abbas.vercel.app/projects/pixelfed-analytics-engineering/)
@@ -70,10 +74,22 @@ I work across data and analytics engineering, machine learning, and business int
 
 I document what I build and share practical notes through **The Data Tea**, roadmaps, and technical labs. My next focus connects analytics engineering with **Forward Deployed Engineering**, production AI, and search & ranking.
 
+- **[Python Learning Roadmap](https://sohila-khaled-abbas.github.io/python-learning-roadmap/)** — Boot.dev chapters, ITI Arabic, Harvard CS50P, original exercises, and a practical route to tested data pipelines.
 - **[Forward Deployed Engineering](https://sohila-khaled-abbas.github.io/forward-deployed-engineer-roadmap/)** — Customer discovery, application engineering, production AI, and delivery.
 - **[Data Engineering Learning Roadmap](https://github.com/Sohila-Khaled-Abbas/data-engineering-learning-roadmap)** — SQL, Python, pipelines, data platforms, and engineering foundations.
 - **[Operating systems labs](https://github.com/Sohila-Khaled-Abbas/fundamentals-of-operating-systems-labs)** — Processes, memory, concurrency, and systems practice.
 - **[Excel Zero to Hero](https://sohila-khaled-abbas.github.io/COURSE-EXCEL-ZERO-TO-HERO/)** — Reusable learning materials for Excel and business analysis.
+
+<details>
+<summary><strong>More learning repositories · 3 automatically discovered</strong></summary>
+
+- **[The Data Tea · AI Automation Roadmap](https://ai-automation-roadmap-psi.vercel.app)** — An interactive learning roadmap for AI automation, featuring n8n and adjacent automation tools as structured data-tea products. · Built with Manus
+
+- **[Data &amp; AI Career Roadmap Generator](https://the-data-tea-roadmaps.vercel.app)** — An end-to-end data engineering pipeline that scrapes real-time job market data across multiple platforms, extracts technical skills using Gemini 2.0 Flash, and powers an interactive Serverless Next.js web…
+
+- **[Excel VBA Second Brain](https://github.com/Sohila-Khaled-Abbas/Excel-VBA-Second-Brain)** — A personal knowledge system for mastering Excel VBA, Macros, Automation Architecture, Debugging, UserForms, and Office Suite Integration
+
+</details>
 
 <details>
 <summary><strong>Background, experience & training</strong></summary>
@@ -104,6 +120,9 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
+- **[Python Learning Roadmap](https://github.com/Sohila-Khaled-Abbas/python-learning-roadmap)** · 2026-10-31<br>
+  A practical Python roadmap for data &amp; analytics engineering: Boot.dev course chapters, ITI Arabic, Harvard CS50P, original labs, SQL, pandas, APIs, and portfolio projects. Interactive GitHub Pages learning map.
+
 - **[Forward Deployed Engineer Roadmap](https://github.com/Sohila-Khaled-Abbas/forward-deployed-engineer-roadmap)** · 2026-10-31<br>
   A personal 24-week Forward Deployed Engineer roadmap for Sohila: Python, SQL, BI, n8n, production AI, customer delivery, and portfolio projects. Interactive GitHub Pages website.
 
@@ -116,13 +135,10 @@ I document what I build and share practical notes through **The Data Tea**, road
 - **[data-engineering-learning-roadmap](https://github.com/Sohila-Khaled-Abbas/data-engineering-learning-roadmap)** · 2026-10-30<br>
   A practical, self-paced roadmap for SQL, Python, analytics engineering, data pipelines, big data, and portfolio projects.
 
-- **[PixelFed Analytics Engineering](https://github.com/Sohila-Khaled-Abbas/pixelfed-analytics-engineering)** · 2026-10-30 · **In progress**<br>
-  Production-Grade Analytics Engineering Lakehouse, Multi-Format Ingestion Engine, and Power BI Semantic Model
-
 <sub>Public repository updates, newest first. Dates are UTC; activity does not imply project completion.</sub>
 
 <details>
-<summary><strong>Explore all 75 public original projects</strong></summary>
+<summary><strong>Explore all 76 public original projects</strong></summary>
 
 - **[ab-testing-marketing-conversion](https://github.com/Sohila-Khaled-Abbas/ab-testing-marketing-conversion)** · [Website](https://docs.google.com/presentation/d/1eYQSaxsK_8GT6Tk2pK9gJVb26Nv7NPhj8ik92czk8vI/edit?slide=id.p1#slide=id.p1)<br>
   A/B testing project analyzing the impact of a marketing ad campaign on user conversions using Python, PostgreSQL, and Excel. Includes statistical tests \(Z-test, Chi-square\), data cleaning, SQL queries, and…
@@ -297,6 +313,9 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 - **[pwc-switzerland-virtual-case](https://github.com/Sohila-Khaled-Abbas/pwc-switzerland-virtual-case)**<br>
   PwC Switzerland Virtual Case Experience: Enterprise Business Intelligence, Ralph Kimball Galaxy Semantic Model \(VertiPaq Engine\), DAX KPI Engineering &amp; Executive Excel Application Architecture
+
+- **[python-learning-roadmap](https://github.com/Sohila-Khaled-Abbas/python-learning-roadmap)** · [Website](https://sohila-khaled-abbas.github.io/python-learning-roadmap/)<br>
+  A practical Python roadmap for data &amp; analytics engineering: Boot.dev course chapters, ITI Arabic, Harvard CS50P, original labs, SQL, pandas, APIs, and portfolio projects. Interactive GitHub Pages learning map.
 
 - **[Python_EDA_Case_Study](https://github.com/Sohila-Khaled-Abbas/Python_EDA_Case_Study)**<br>
   This project is an implementation of exploratory data analysis \(EDA\) techniques in Python, inspired by Mustafa Othman's YouTube tutorial. It focuses on analyzing employee salary data to uncover trends and…
