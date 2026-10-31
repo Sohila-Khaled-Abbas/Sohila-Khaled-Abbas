@@ -6,7 +6,9 @@
   "recent_limit": 5,
   "ignored_websites": [
     "https://the-data-tea.vercel.app",
-    "https://sohila-khaled-abbas.github.io/flyrank-ml-internship-starter"
+    "https://sohila-khaled-abbas.github.io/flyrank-ml-internship-starter",
+    "https://data-engineering-learning-roadmap.vercel.app",
+    "https://www.udemy.com/share/102A1K3@iAM-HIjlSe25MC6f4c3TeZN_IWzkGwj7YnPP-Am-ZTf4pXW2kPYlHCx1j9wg8Zd2UQ=="
   ],
   "featured": [
     {"repo": "pixelfed-analytics-engineering", "title": "PixelFed Analytics Engineering"},

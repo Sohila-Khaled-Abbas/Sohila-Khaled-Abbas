@@ -46,7 +46,7 @@ jobs:
           {
             echo "## README link and badge validation"
             echo ""
-            echo "**Result:** \\`$result\\`"
+            printf '**Result:** `%s`\n' "$result"
             echo ""
             echo "**Run:** $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
             echo ""

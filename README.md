@@ -71,7 +71,7 @@ I work across data and analytics engineering, machine learning, and business int
 I document what I build and share practical notes through **The Data Tea**, roadmaps, and technical labs. My next focus connects analytics engineering with **Forward Deployed Engineering**, production AI, and search & ranking.
 
 - **[Forward Deployed Engineering](https://sohila-khaled-abbas.github.io/forward-deployed-engineer-roadmap/)** — Customer discovery, application engineering, production AI, and delivery.
-- **[Data Engineering Learning Roadmap](https://data-engineering-learning-roadmap.vercel.app/)** — SQL, Python, pipelines, data platforms, and engineering foundations.
+- **[Data Engineering Learning Roadmap](https://github.com/Sohila-Khaled-Abbas/data-engineering-learning-roadmap)** — SQL, Python, pipelines, data platforms, and engineering foundations.
 - **[Operating systems labs](https://github.com/Sohila-Khaled-Abbas/fundamentals-of-operating-systems-labs)** — Processes, memory, concurrency, and systems practice.
 - **[Excel Zero to Hero](https://sohila-khaled-abbas.github.io/COURSE-EXCEL-ZERO-TO-HERO/)** — Reusable learning materials for Excel and business analysis.
 
@@ -157,7 +157,7 @@ I document what I build and share practical notes through **The Data Tea**, road
 - **[data-career-roadmap-generator](https://github.com/Sohila-Khaled-Abbas/data-career-roadmap-generator)** · [Website](https://the-data-tea-roadmaps.vercel.app)<br>
   An end-to-end data engineering pipeline that scrapes real-time job market data across multiple platforms, extracts technical skills using Gemini 2.0 Flash, and powers an interactive Serverless Next.js web…
 
-- **[data-engineering-learning-roadmap](https://github.com/Sohila-Khaled-Abbas/data-engineering-learning-roadmap)** · [Website](https://data-engineering-learning-roadmap.vercel.app/)<br>
+- **[data-engineering-learning-roadmap](https://github.com/Sohila-Khaled-Abbas/data-engineering-learning-roadmap)**<br>
   A practical, self-paced roadmap for SQL, Python, analytics engineering, data pipelines, big data, and portfolio projects.
 
 - **[deep-clean-data-tool](https://github.com/Sohila-Khaled-Abbas/deep-clean-data-tool)** · [Website](https://deep-clean-os.streamlit.app)<br>
@@ -331,7 +331,7 @@ I document what I build and share practical notes through **The Data Tea**, road
 - **[Startup-Expansion-Analysis-Dashboard](https://github.com/Sohila-Khaled-Abbas/Startup-Expansion-Analysis-Dashboard)** · [Website](https://app.powerbi.com/view?r=eyJrIjoiZTFiMTFjOWQtNjI5Ni00YzRiLWEwNzQtZmVlZjM2OGQwZGZlIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)<br>
   This project integrates Python and Power BI to analyze a startup's store expansion performance. It features a 5-page interactive dashboard covering revenue, ROI, marketing efficiency, and detailed store-level…
 
-- **[Stock-Price-Data-Pipeline](https://github.com/Sohila-Khaled-Abbas/Stock-Price-Data-Pipeline)** · [Website](https://www.udemy.com/share/102A1K3@iAM-HIjlSe25MC6f4c3TeZN_IWzkGwj7YnPP-Am-ZTf4pXW2kPYlHCx1j9wg8Zd2UQ==/)<br>
+- **[Stock-Price-Data-Pipeline](https://github.com/Sohila-Khaled-Abbas/Stock-Price-Data-Pipeline)**<br>
   An end-to-end automated data pipeline built with Apache Airflow, Apache Spark, MinIO, PostgreSQL, and Metabase.
 
 - **[streampulse](https://github.com/Sohila-Khaled-Abbas/streampulse)**<br>

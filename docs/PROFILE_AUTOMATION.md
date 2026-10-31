@@ -30,10 +30,19 @@ The workflow uses GitHub’s built-in ephemeral `GITHUB_TOKEN`; no PAT, Vercel s
 1. Update your portfolio `profile.json` for a changed role, skill, training item, or contact link.
 2. Update portfolio `project-status.json` for project status and active focus.
 3. Update a public repository’s description and Website setting for its current overview and destination.
-4. Edit local `profile.config.json` to change featured projects or learning resources. `ignored_websites` suppresses exact URLs confirmed unavailable; a replacement URL on the source repository is still discovered automatically. The old `the-data-tea.vercel.app` deployment returned 404 and the FlyRank internship Pages URL repeatedly returned 503 during validation, so their source repositories remain listed without those broken website links. Remove a suppression if the same URL becomes available again.
+4. Edit local `profile.config.json` to change featured projects or learning resources. `ignored_websites` suppresses exact unavailable or access-restricted URLs; a replacement URL on the source repository is still discovered automatically. Their public source repositories remain listed. Remove a suppression when the same URL becomes publicly available again.
 5. Edit `templates/README.md` for layout, capability descriptions, or the learning-focus paragraph. Avoid editing generated `README.md` directly: the next sync replaces it.
 
 Existing metric, snake, visitor-chart, and link-validation workflows are preserved. Their assets retain their own refresh schedules.
+
+### Website exceptions verified during this update
+
+| Website | Observation | Profile behavior |
+| --- | --- | --- |
+| `the-data-tea.vercel.app` | HTTP 404 | Keep the public source repository; omit the unavailable website. |
+| FlyRank internship GitHub Pages URL | Repeated HTTP 503 | Keep the public source repository; omit the unavailable website. |
+| `data-engineering-learning-roadmap.vercel.app` | HTTP 403 in GitHub Actions; the Vercel project reports SSO protection on all deployments | Learning link falls back to the public GitHub repository. Hosting protection is unchanged. |
+| Stock Price Data Pipeline’s Udemy share URL | Course link, not a project deployment; HTTP 403 in GitHub Actions | Keep the public project source; omit the restricted course URL as a project website. |
 
 ## Validation and failure behavior
 
