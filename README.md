@@ -126,14 +126,14 @@ I document what I build and share practical notes through **The Data Tea**, road
 - **[Forward Deployed Engineer Roadmap](https://github.com/Sohila-Khaled-Abbas/forward-deployed-engineer-roadmap)** · 2026-10-31<br>
   A personal 24-week Forward Deployed Engineer roadmap for Sohila: Python, SQL, BI, n8n, production AI, customer delivery, and portfolio projects. Interactive GitHub Pages website.
 
+- **[data-engineering-learning-roadmap](https://github.com/Sohila-Khaled-Abbas/data-engineering-learning-roadmap)** · 2026-10-31<br>
+  A practical, self-paced roadmap for SQL, Python, analytics engineering, data pipelines, big data, and portfolio projects.
+
 - **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-10-31<br>
   An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
 
 - **[n8n Queue &amp; Worker Stack](https://github.com/Sohila-Khaled-Abbas/n8n-production-queue-setup)** · 2026-10-31 · **In progress**<br>
   A production-grade, self-hosted n8n deployment with queue-mode scaling, PostgreSQL persistence, and an isolated Python/JavaScript code execution sidecar.
-
-- **[data-engineering-learning-roadmap](https://github.com/Sohila-Khaled-Abbas/data-engineering-learning-roadmap)** · 2026-10-30<br>
-  A practical, self-paced roadmap for SQL, Python, analytics engineering, data pipelines, big data, and portfolio projects.
 
 <sub>Public repository updates, newest first. Dates are UTC; activity does not imply project completion.</sub>
 
