@@ -5,7 +5,7 @@
 
 # Sohila Khaled Abbas
 
-### Data &amp; Analytics Engineer · Machine Learning Engineer
+### Data &amp; Analytics Engineer · ML Engineering &amp; AI Automation
 
 <p><a href="https://sohila-khaled-abbas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-79515D?style=flat-square" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sohilakabbas"><img src="https://img.shields.io/badge/LinkedIn-5F514A?style=flat-square" alt="LinkedIn" /></a>
@@ -15,7 +15,7 @@ Damietta, Egypt · Open to remote collaboration
 
 </div>
 
-I work across data and analytics engineering, machine learning, and business intelligence. My focus spans ETL/ELT pipelines, data warehousing, predictive modeling, and decision-ready reporting with Python, SQL, Power BI, Airflow, dbt, Databricks, and PySpark. My background in agricultural science and quality-focused research shapes how I approach validation, documentation, and evidence.
+I turn complex, fragmented data into reliable pipelines, actionable insights, and intelligent automation. My work connects data engineering, business intelligence, and AI through Python, SQL, Power BI, dbt, Airflow, PySpark, ETL/ELT, and data warehousing. A background in agricultural research shapes the way I validate information, document decisions, and explain what the results mean.
 
 ## What I build
 
@@ -99,7 +99,6 @@ I document what I build and share practical notes through **The Data Tea**, road
 ### Experience
 
 - **Machine Learning Engineer Intern** · FlyRank AI · Jul 2026 – Sep 2026
-- **Data Engineer Intern** · Data Pill · Mar 2026 – Aug 2026
 - **Business Intelligence Developer** · Freelance · Dec 2024 – Present
 - **Technical Coach** · Digital Egypt Pioneers Initiative \(DEPI\) · Sep 2025 – Jun 2026
 - **Data Analytics Mentor** · Data Pill · Jul 2025 – Apr 2026
@@ -120,20 +119,20 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
-- **[Python Learning Roadmap](https://github.com/Sohila-Khaled-Abbas/python-learning-roadmap)** · 2026-11-01<br>
-  A practical Python roadmap for data &amp; analytics engineering: Boot.dev course chapters, ITI Arabic, Harvard CS50P, original labs, SQL, pandas, APIs, and portfolio projects. Interactive GitHub Pages learning map.
+- **[streampulse](https://github.com/Sohila-Khaled-Abbas/streampulse)** · 2026-11-01<br>
+  Live Netflix Catalog &amp; Audience Intelligence ELT Pipeline
 
-- **[Forward Deployed Engineer Roadmap](https://github.com/Sohila-Khaled-Abbas/forward-deployed-engineer-roadmap)** · 2026-10-31<br>
-  A personal 24-week Forward Deployed Engineer roadmap for Sohila: Python, SQL, BI, n8n, production AI, customer delivery, and portfolio projects. Interactive GitHub Pages website.
+- **[sohila-data-showcase](https://github.com/Sohila-Khaled-Abbas/sohila-data-showcase)** · 2026-11-01<br>
+  Personal Data Portfolio Website
 
-- **[data-engineering-learning-roadmap](https://github.com/Sohila-Khaled-Abbas/data-engineering-learning-roadmap)** · 2026-10-31<br>
-  A practical, self-paced roadmap for SQL, Python, analytics engineering, data pipelines, big data, and portfolio projects.
+- **[data-career-roadmap-generator](https://github.com/Sohila-Khaled-Abbas/data-career-roadmap-generator)** · 2026-11-01<br>
+  An end-to-end data engineering pipeline that scrapes real-time job market data across multiple platforms, extracts technical skills using Gemini 2.0 Flash, and powers an interactive Serverless Next.js web…
 
-- **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-10-31<br>
-  An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
+- **[sql-server-data-platform](https://github.com/Sohila-Khaled-Abbas/sql-server-data-platform)** · 2026-11-01<br>
+  This repository serves as an operational codebase and architectural proof of competency for modern Data Engineering &amp; Database Reliability Engineering \(DBRE\) on Microsoft SQL Server 2022. It is engineered…
 
-- **[n8n Queue &amp; Worker Stack](https://github.com/Sohila-Khaled-Abbas/n8n-production-queue-setup)** · 2026-10-31 · **In progress**<br>
-  A production-grade, self-hosted n8n deployment with queue-mode scaling, PostgreSQL persistence, and an isolated Python/JavaScript code execution sidecar.
+- **[Kickstarter Analytics Engineering](https://github.com/Sohila-Khaled-Abbas/kickstarter-analytics-engineering)** · 2026-11-01<br>
+  End-to-end data pipeline and Power BI model for Kickstarter campaign analysis.
 
 <sub>Public repository updates, newest first. Dates are UTC; activity does not imply project completion.</sub>
 
@@ -165,7 +164,7 @@ I document what I build and share practical notes through **The Data Tea**, road
   A production-grade multi-source ETL pipeline that consolidates banking, ATM, and credit card data into a single Customer 360 golden record, enforcing a strict three-rule exception matrix to quarantine…
 
 - **[Customer-Churn-Analysis](https://github.com/Sohila-Khaled-Abbas/Customer-Churn-Analysis)**<br>
-  This project delivers a complete data analytics pipeline for a fictional Telecom company, integrating:
+  This project delivers a complete data analytics pipeline for a fictional Telecom company, integrating: PostgreSQL \(staging, star schema, business queries, materialized views\) Power BI \(dashboard storytelling,…
 
 - **[customer-segmentation-clustering](https://github.com/Sohila-Khaled-Abbas/customer-segmentation-clustering)**<br>
   This project demonstrates a full end-to-end data analytics pipeline: from raw e-commerce customer data → ETL → clustering → star schema → advanced SQL \(CTEs &amp; window functions\) → Power BI storytelling…
@@ -252,7 +251,7 @@ I document what I build and share practical notes through **The Data Tea**, road
   Transform your disparate CSV and Excel files into unified, actionable intelligence.
 
 - **[marketing-campaign-dashboard](https://github.com/Sohila-Khaled-Abbas/marketing-campaign-dashboard)**<br>
-  Source files and documentation for Marketing Campaign Dashboard.
+  A Streamlit dashboard for exploring marketing campaign conversion, acquisition cost, return on investment, channel performance, and customer segments stored in PostgreSQL.
 
 - **[marketing_campaigns_analysis](https://github.com/Sohila-Khaled-Abbas/marketing_campaigns_analysis)**<br>
   This project explains how data engineering and analytics enable smarter campaign investments. Optimizing marketing spend requires reliable, well-modeled data. We build an end-to-end pipeline from raw campaign…

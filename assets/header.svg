@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Sohila Khaled Abbas — Good data. Better decisions.</title>
-  <desc id="desc">Ivory and burgundy data-flow illustration. Data &amp; Analytics Engineer · Machine Learning Engineer.</desc>
+  <desc id="desc">Ivory and burgundy data-flow illustration. Data &amp; Analytics Engineer · ML Engineering &amp; AI Automation.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#32272b"/><stop offset="1" stop-color="#211c20"/></linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#f4e9dc" stroke-opacity=".045"/></pattern>
@@ -12,7 +12,7 @@
   <g fill="#2b2227" stroke="#c598a2" stroke-width="2"><circle cx="840" cy="65" r="8"/><circle cx="1030" cy="122" r="8"/><circle cx="1030" cy="190" r="8"/><circle cx="920" cy="160" r="8"/></g>
   <text x="58" y="58" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#c69ba5">ENGINEER / ANALYZE / AUTOMATE</text>
   <text x="56" y="124" font-family="Georgia,serif" font-size="48" fill="#f7efe5">Sohila Khaled Abbas</text>
-  <text x="59" y="167" font-family="Arial,sans-serif" font-size="20" fill="#dfcdbf">Data &amp; Analytics Engineer · Machine Learning Engineer</text>
+  <text x="59" y="167" font-family="Arial,sans-serif" font-size="20" fill="#dfcdbf">Data &amp; Analytics Engineer · ML Engineering &amp; AI Automation</text>
   <path d="M58 197H122" stroke="#b1808b" stroke-width="3"/>
   <text x="58" y="235" font-family="Arial,sans-serif" font-size="20" fill="#f1e5da">Good data. Better decisions.</text>
 </svg>
