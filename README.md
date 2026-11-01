@@ -120,7 +120,7 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
-- **[Python Learning Roadmap](https://github.com/Sohila-Khaled-Abbas/python-learning-roadmap)** · 2026-10-31<br>
+- **[Python Learning Roadmap](https://github.com/Sohila-Khaled-Abbas/python-learning-roadmap)** · 2026-11-01<br>
   A practical Python roadmap for data &amp; analytics engineering: Boot.dev course chapters, ITI Arabic, Harvard CS50P, original labs, SQL, pandas, APIs, and portfolio projects. Interactive GitHub Pages learning map.
 
 - **[Forward Deployed Engineer Roadmap](https://github.com/Sohila-Khaled-Abbas/forward-deployed-engineer-roadmap)** · 2026-10-31<br>
