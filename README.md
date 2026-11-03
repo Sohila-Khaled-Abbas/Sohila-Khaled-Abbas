@@ -119,6 +119,9 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
+- **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-03<br>
+  An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
+
 - **[streampulse](https://github.com/Sohila-Khaled-Abbas/streampulse)** · 2026-11-01<br>
   Live Netflix Catalog &amp; Audience Intelligence ELT Pipeline
 
@@ -130,9 +133,6 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 - **[sql-server-data-platform](https://github.com/Sohila-Khaled-Abbas/sql-server-data-platform)** · 2026-11-01<br>
   This repository serves as an operational codebase and architectural proof of competency for modern Data Engineering &amp; Database Reliability Engineering \(DBRE\) on Microsoft SQL Server 2022. It is engineered…
-
-- **[Kickstarter Analytics Engineering](https://github.com/Sohila-Khaled-Abbas/kickstarter-analytics-engineering)** · 2026-11-01<br>
-  End-to-end data pipeline and Power BI model for Kickstarter campaign analysis.
 
 <sub>Public repository updates, newest first. Dates are UTC; activity does not imply project completion.</sub>
 
