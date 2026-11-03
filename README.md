@@ -119,6 +119,9 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
+- **[forage-excel-skills-job-simulation](https://github.com/Sohila-Khaled-Abbas/forage-excel-skills-job-simulation)** · 2026-11-03<br>
+  Learning notes and original evidence from the Forage Academy Excel Skills virtual experience program.
+
 - **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-03<br>
   An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
 
@@ -131,13 +134,10 @@ I document what I build and share practical notes through **The Data Tea**, road
 - **[data-career-roadmap-generator](https://github.com/Sohila-Khaled-Abbas/data-career-roadmap-generator)** · 2026-11-01<br>
   An end-to-end data engineering pipeline that scrapes real-time job market data across multiple platforms, extracts technical skills using Gemini 2.0 Flash, and powers an interactive Serverless Next.js web…
 
-- **[sql-server-data-platform](https://github.com/Sohila-Khaled-Abbas/sql-server-data-platform)** · 2026-11-01<br>
-  This repository serves as an operational codebase and architectural proof of competency for modern Data Engineering &amp; Database Reliability Engineering \(DBRE\) on Microsoft SQL Server 2022. It is engineered…
-
 <sub>Public repository updates, newest first. Dates are UTC; activity does not imply project completion.</sub>
 
 <details>
-<summary><strong>Explore all 76 public original projects</strong></summary>
+<summary><strong>Explore all 77 public original projects</strong></summary>
 
 - **[ab-testing-marketing-conversion](https://github.com/Sohila-Khaled-Abbas/ab-testing-marketing-conversion)** · [Website](https://docs.google.com/presentation/d/1eYQSaxsK_8GT6Tk2pK9gJVb26Nv7NPhj8ik92czk8vI/edit?slide=id.p1#slide=id.p1)<br>
   A/B testing project analyzing the impact of a marketing ad campaign on user conversions using Python, PostgreSQL, and Excel. Includes statistical tests \(Z-test, Chi-square\), data cleaning, SQL queries, and…
@@ -207,6 +207,9 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 - **[fmcg-sales-churn-drop-analysis-powerbi](https://github.com/Sohila-Khaled-Abbas/fmcg-sales-churn-drop-analysis-powerbi)** · [Website](https://app.powerbi.com/view?r=eyJrIjoiNzE0MWUwYTgtZTlhZC00N2IxLWFmYzQtYmI2MzFkNjFhN2NjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)<br>
   Real-time insights into retailer behavior, operational performance, and customer lifecycle across the Maxab distribution network in Egypt.
+
+- **[forage-excel-skills-job-simulation](https://github.com/Sohila-Khaled-Abbas/forage-excel-skills-job-simulation)** · [Website](https://www.theforage.com/simulations/forage/sponsored-content-excel-skills-jf8r)<br>
+  Learning notes and original evidence from the Forage Academy Excel Skills virtual experience program.
 
 - **[forward-deployed-engineer-roadmap](https://github.com/Sohila-Khaled-Abbas/forward-deployed-engineer-roadmap)** · [Website](https://sohila-khaled-abbas.github.io/forward-deployed-engineer-roadmap/)<br>
   A personal 24-week Forward Deployed Engineer roadmap for Sohila: Python, SQL, BI, n8n, production AI, customer delivery, and portfolio projects. Interactive GitHub Pages website.
