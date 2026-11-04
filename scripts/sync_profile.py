@@ -167,7 +167,7 @@ def render(profile: dict, repositories: list[dict], details: dict, statuses: dic
         return "" if target.rstrip("/") in ignored else target
 
     blocks = {}
-    blocks["INTRO"] = f'# {text(profile["name"])}\n\n### {text(profile["role"].replace(" | ", " · "))}\n\n'
+    blocks["INTRO"] = f'# {text(profile["name"])}\n\n### {text(profile.get("headline") or profile["role"]).replace(" | ", " · ")}\n\n'
     blocks["INTRO"] += "<p>" + "\n".join([
         badge("Portfolio", portfolio + "/", "79515D"),
         badge("LinkedIn", url(profile["linkedin"]), "5F514A"),
@@ -234,7 +234,7 @@ def render(profile: dict, repositories: list[dict], details: dict, statuses: dic
         website = f' · {link("Website", target)}' if target else ""
         entries.append(f'- **{link(repo["name"], repo_url(repo["name"]))}**{status(repo["name"])}{website}<br>\n  {summary(repo)}')
     blocks["CATALOG"] += "\n\n".join(entries) + "\n\n</details>"
-    blocks["CONNECT"] = f'## Let’s build something useful\n\nOpen to remote projects in **business intelligence, data & analytics engineering, and workflow automation**.\n\n{link("Explore my portfolio", portfolio + "/")} · {link("Connect on LinkedIn", profile["linkedin"])} · [Email me]({contact})'
+    blocks["CONNECT"] = f'## Let’s build something useful\n\nOpen to remote **Data Analyst** and **BI Developer** opportunities, plus project-based work involving SQL, Python, Power BI, DAX, Power Query, ETL/ELT, and analytics engineering.\n\n{link("Explore my portfolio", portfolio + "/")} · {link("Connect on LinkedIn", profile["linkedin"])} · [Email me]({contact})'
 
     for key, value in blocks.items():
         marker = "{{" + key + "}}"
