@@ -120,11 +120,11 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
+- **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-04<br>
+  An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
+
 - **[forage-excel-skills-job-simulation](https://github.com/Sohila-Khaled-Abbas/forage-excel-skills-job-simulation)** · 2026-11-03<br>
   Learning notes and original evidence from the Forage Academy Excel Skills virtual experience program.
-
-- **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-03<br>
-  An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
 
 - **[streampulse](https://github.com/Sohila-Khaled-Abbas/streampulse)** · 2026-11-01<br>
   Live Netflix Catalog &amp; Audience Intelligence ELT Pipeline
