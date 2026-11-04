@@ -5,7 +5,7 @@
 
 # Sohila Khaled Abbas
 
-### Data &amp; Analytics Engineer · ML Engineering &amp; AI Automation
+### Data Analyst &amp; BI Developer · SQL, Python, Power BI, DAX &amp; Power Query · ETL/ELT &amp; Analytics Engineering
 
 <p><a href="https://sohila-khaled-abbas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-79515D?style=flat-square" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sohilakabbas"><img src="https://img.shields.io/badge/LinkedIn-5F514A?style=flat-square" alt="LinkedIn" /></a>
@@ -15,7 +15,7 @@ Damietta, Egypt · Open to remote collaboration
 
 </div>
 
-I turn complex, fragmented data into reliable pipelines, actionable insights, and intelligent automation. My work connects data engineering, business intelligence, and AI through Python, SQL, Power BI, dbt, Airflow, PySpark, ETL/ELT, and data warehousing. A background in agricultural research shapes the way I validate information, document decisions, and explain what the results mean.
+I’m a Data Analyst and BI Developer focused on turning raw, fragmented data into clear insights and reliable reporting. I use SQL and Python to explore, clean, validate, and prepare data, then build business intelligence solutions with Power BI, DAX, and Power Query. I also work with ETL/ELT workflows, dimensional modeling, and data warehousing to make analytics more consistent, traceable, and useful for decision-making. My portfolio brings these skills together through hands-on projects across business reporting, analytics engineering, and data preparation. A background in agricultural research shaped the way I approach evidence, quality checks, and communicating findings.
 
 ## What I build
 
@@ -392,7 +392,7 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Let’s build something useful
 
-Open to remote projects in **business intelligence, data & analytics engineering, and workflow automation**.
+Open to remote **Data Analyst** and **BI Developer** opportunities, plus project-based work involving SQL, Python, Power BI, DAX, Power Query, ETL/ELT, and analytics engineering.
 
 [Explore my portfolio](https://sohila-khaled-abbas.vercel.app/) · [Connect on LinkedIn](https://linkedin.com/in/sohilakabbas) · [Email me](mailto:sohila.k.data@gmail.com)
 
