@@ -5,7 +5,7 @@
 
 # Sohila Khaled Abbas
 
-### Data Analyst &amp; BI Developer · SQL, Python, Power BI, DAX &amp; Power Query · ETL/ELT &amp; Analytics Engineering
+### Data Analyst &amp; BI Developer \| SQL, Python, Power BI, DAX &amp; Power Query \| ETL/ELT &amp; Analytics Engineering
 
 <p><a href="https://sohila-khaled-abbas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-79515D?style=flat-square" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sohilakabbas"><img src="https://img.shields.io/badge/LinkedIn-5F514A?style=flat-square" alt="LinkedIn" /></a>
@@ -19,10 +19,10 @@ I’m a Data Analyst and BI Developer focused on turning raw, fragmented data in
 
 ## What I build
 
-- **Data foundations:** Python and SQL pipelines, ETL/ELT, validation, dimensional models, and warehouses.
-- **Useful analytics:** Power BI semantic models, DAX, Power Query, Excel, and reporting that starts with a business question.
-- **Automation & AI:** n8n workflows, API integrations, Docker queue stacks, and retrieval workflows.
-- **Machine learning:** Feature engineering, predictive modeling, and model evaluation with Python.
+- **Data analysis:** SQL, Python, data cleaning, exploratory analysis, validation, and clear communication of findings.
+- **Business intelligence:** Power BI reports and semantic models, DAX measures, Power Query transformations, Excel analysis, and KPI reporting.
+- **Analytics foundations:** ETL/ELT workflows, dimensional modeling, and data warehousing that support consistent, traceable reporting.
+- **Complementary areas:** Workflow automation, API integrations, and applied machine-learning projects.
 
 ## Currently building
 
@@ -72,7 +72,7 @@ I’m a Data Analyst and BI Developer focused on turning raw, fragmented data in
 
 ## Learning in the open
 
-I document what I build and share practical notes through **The Data Tea**, roadmaps, and technical labs. My next focus connects analytics engineering with **Forward Deployed Engineering**, production AI, and search & ranking.
+I document what I build and share practical notes through **The Data Tea**, roadmaps, and technical labs. Alongside my core focus in data analysis and BI development, I continue exploring analytics engineering, production AI, and customer-facing technical delivery.
 
 - **[Python Learning Roadmap](https://sohila-khaled-abbas.github.io/python-learning-roadmap/)** — Boot.dev chapters, ITI Arabic, Harvard CS50P, original exercises, and a practical route to tested data pipelines.
 - **[Forward Deployed Engineering](https://sohila-khaled-abbas.github.io/forward-deployed-engineer-roadmap/)** — Customer discovery, application engineering, production AI, and delivery.
@@ -98,6 +98,7 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ### Experience
 
+- **Excel Skills Job Simulation** · Forage Academy · Nov 4, 2026
 - **Data Labeling Analyst — Job Simulation** · Forage Academy · Nov 3, 2026
 - **Machine Learning Engineer Intern** · FlyRank AI · Jul 2026 – Sep 2026
 - **Business Intelligence Developer** · Freelance · Dec 2024 – Present
@@ -120,11 +121,11 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
+- **[forage-excel-skills-job-simulation](https://github.com/Sohila-Khaled-Abbas/forage-excel-skills-job-simulation)** · 2026-11-04<br>
+  Learning notes and original evidence from the Forage Academy Excel Skills virtual experience program.
+
 - **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-04<br>
   An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
-
-- **[forage-excel-skills-job-simulation](https://github.com/Sohila-Khaled-Abbas/forage-excel-skills-job-simulation)** · 2026-11-03<br>
-  Learning notes and original evidence from the Forage Academy Excel Skills virtual experience program.
 
 - **[streampulse](https://github.com/Sohila-Khaled-Abbas/streampulse)** · 2026-11-01<br>
   Live Netflix Catalog &amp; Audience Intelligence ELT Pipeline
