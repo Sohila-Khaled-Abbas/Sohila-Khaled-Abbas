@@ -98,6 +98,7 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ### Experience
 
+- **Data Labeling Analyst — Job Simulation** · Forage Academy · Nov 3, 2026
 - **Machine Learning Engineer Intern** · FlyRank AI · Jul 2026 – Sep 2026
 - **Business Intelligence Developer** · Freelance · Dec 2024 – Present
 - **Technical Coach** · Digital Egypt Pioneers Initiative \(DEPI\) · Sep 2025 – Jun 2026
