@@ -11,10 +11,10 @@
 
 ## What I build
 
-- **Data foundations:** Python and SQL pipelines, ETL/ELT, validation, dimensional models, and warehouses.
-- **Useful analytics:** Power BI semantic models, DAX, Power Query, Excel, and reporting that starts with a business question.
-- **Automation & AI:** n8n workflows, API integrations, Docker queue stacks, and retrieval workflows.
-- **Machine learning:** Feature engineering, predictive modeling, and model evaluation with Python.
+- **Data analysis:** SQL, Python, data cleaning, exploratory analysis, validation, and clear communication of findings.
+- **Business intelligence:** Power BI reports and semantic models, DAX measures, Power Query transformations, Excel analysis, and KPI reporting.
+- **Analytics foundations:** ETL/ELT workflows, dimensional modeling, and data warehousing that support consistent, traceable reporting.
+- **Complementary areas:** Workflow automation, API integrations, and applied machine-learning projects.
 
 ## Currently building
 
@@ -30,7 +30,7 @@
 
 ## Learning in the open
 
-I document what I build and share practical notes through **The Data Tea**, roadmaps, and technical labs. My next focus connects analytics engineering with **Forward Deployed Engineering**, production AI, and search & ranking.
+I document what I build and share practical notes through **The Data Tea**, roadmaps, and technical labs. Alongside my core focus in data analysis and BI development, I continue exploring analytics engineering, production AI, and customer-facing technical delivery.
 
 {{LEARNING}}
 
