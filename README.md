@@ -121,25 +121,25 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
+- **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-05<br>
+  An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
+
+- **[powerbi-data-analysis-diploma](https://github.com/Sohila-Khaled-Abbas/powerbi-data-analysis-diploma)** · 2026-11-05<br>
+  Comprehensive learning repository and documentation hub for the 81-lecture Microsoft Power BI Data Analysis Diploma by Eng. Essam Elsayed \(MCT\). Includes organized datasets, Power Query M code cheatsheet, and…
+
+- **[home-services-lead-intelligence](https://github.com/Sohila-Khaled-Abbas/home-services-lead-intelligence)** · 2026-11-05<br>
+  Source code, documentation, and project notes.
+
 - **[forage-excel-skills-job-simulation](https://github.com/Sohila-Khaled-Abbas/forage-excel-skills-job-simulation)** · 2026-11-04<br>
   Learning notes and original evidence from the Forage Academy Excel Skills virtual experience program.
-
-- **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-04<br>
-  An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
 
 - **[streampulse](https://github.com/Sohila-Khaled-Abbas/streampulse)** · 2026-11-01<br>
   Live Netflix Catalog &amp; Audience Intelligence ELT Pipeline
 
-- **[sohila-data-showcase](https://github.com/Sohila-Khaled-Abbas/sohila-data-showcase)** · 2026-11-01<br>
-  Personal Data Portfolio Website
-
-- **[data-career-roadmap-generator](https://github.com/Sohila-Khaled-Abbas/data-career-roadmap-generator)** · 2026-11-01<br>
-  An end-to-end data engineering pipeline that scrapes real-time job market data across multiple platforms, extracts technical skills using Gemini 2.0 Flash, and powers an interactive Serverless Next.js web…
-
 <sub>Public repository updates, newest first. Dates are UTC; activity does not imply project completion.</sub>
 
 <details>
-<summary><strong>Explore all 77 public original projects</strong></summary>
+<summary><strong>Explore all 79 public original projects</strong></summary>
 
 - **[ab-testing-marketing-conversion](https://github.com/Sohila-Khaled-Abbas/ab-testing-marketing-conversion)** · [Website](https://docs.google.com/presentation/d/1eYQSaxsK_8GT6Tk2pK9gJVb26Nv7NPhj8ik92czk8vI/edit?slide=id.p1#slide=id.p1)<br>
   A/B testing project analyzing the impact of a marketing ad campaign on user conversions using Python, PostgreSQL, and Excel. Includes statistical tests \(Z-test, Chi-square\), data cleaning, SQL queries, and…
@@ -234,6 +234,9 @@ I document what I build and share practical notes through **The Data Tea**, road
 - **[hive-scd2-datapill-lab](https://github.com/Sohila-Khaled-Abbas/hive-scd2-datapill-lab)**<br>
   Data Engineering Diploma \(Data Pill Academy\) - Big Data Lab 2: Hive Internal vs. External Tables &amp; Non-Transactional SCD Type 2 Architecture
 
+- **[home-services-lead-intelligence](https://github.com/Sohila-Khaled-Abbas/home-services-lead-intelligence)**<br>
+  Source code, documentation, and project notes.
+
 - **[HR-Analytics-Dashboard](https://github.com/Sohila-Khaled-Abbas/HR-Analytics-Dashboard)** · [Website](https://app.powerbi.com/view?r=eyJrIjoiMTgxZTY2NmMtNzA5ZS00Y2FlLWIxNzgtMDM2MWY0ZTIzZjczIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)<br>
   Interactive Power BI dashboard for HR analytics, providing actionable insights into employee attendance and leave patterns. Features dynamic filters, DAX measures, and visually engaging reports for…
 
@@ -314,6 +317,9 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 - **[Portfolio](https://github.com/Sohila-Khaled-Abbas/Portfolio)** · [Website](https://sohila-khaled-abbas.github.io/Portfolio/)<br>
   This repository contains the code and assets for my personal portfolio website. It serves as a professional hub where visitors can explore my data analysis projects, skills, and get in touch with me. The site…
+
+- **[powerbi-data-analysis-diploma](https://github.com/Sohila-Khaled-Abbas/powerbi-data-analysis-diploma)** · [Website](https://www.youtube.com/playlist?list=PLkYJ59mAhUsMbZQ4AmBmGt0EEyrTrg5mX)<br>
+  Comprehensive learning repository and documentation hub for the 81-lecture Microsoft Power BI Data Analysis Diploma by Eng. Essam Elsayed \(MCT\). Includes organized datasets, Power Query M code cheatsheet, and…
 
 - **[pwc-switzerland-virtual-case](https://github.com/Sohila-Khaled-Abbas/pwc-switzerland-virtual-case)**<br>
   PwC Switzerland Virtual Case Experience: Enterprise Business Intelligence, Ralph Kimball Galaxy Semantic Model \(VertiPaq Engine\), DAX KPI Engineering &amp; Executive Excel Application Architecture
