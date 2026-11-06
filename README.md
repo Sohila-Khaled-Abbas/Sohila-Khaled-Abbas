@@ -121,7 +121,7 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
-- **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-05<br>
+- **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-06<br>
   An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
 
 - **[powerbi-data-analysis-diploma](https://github.com/Sohila-Khaled-Abbas/powerbi-data-analysis-diploma)** · 2026-11-05<br>
