@@ -107,6 +107,7 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ### Training
 
+- **Introduction to Excel** · 365 Data Science · Nov 6, 2026
 - **n8n Foundations Professional Certificate** · n8n Academy · 2026
 - **Fundamentals of Networking for Effective Backend Design** · Udemy · Oct 2026
 - **Data Analytics Diploma** · Ahmed Ali · Friendly Analysis · Mar – May 2026
@@ -121,20 +122,20 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
+- **[flyrank-ml-internship-starter](https://github.com/Sohila-Khaled-Abbas/flyrank-ml-internship-starter)** · 2026-11-06<br>
+  Official portfolio, applied machine learning research paper, and autonomous decision-support agent for Sohila Khaled Abbas \(Applied ML Intern &amp; Search Intelligence Engineer at FlyRank AI \| BI Developer\).
+
+- **[home-services-lead-intelligence](https://github.com/Sohila-Khaled-Abbas/home-services-lead-intelligence)** · 2026-11-06<br>
+  A provenance-first public business-data discovery pipeline for Egypt's home-services market.
+
 - **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-06<br>
   An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
 
 - **[powerbi-data-analysis-diploma](https://github.com/Sohila-Khaled-Abbas/powerbi-data-analysis-diploma)** · 2026-11-05<br>
   Comprehensive learning repository and documentation hub for the 81-lecture Microsoft Power BI Data Analysis Diploma by Eng. Essam Elsayed \(MCT\). Includes organized datasets, Power Query M code cheatsheet, and…
 
-- **[home-services-lead-intelligence](https://github.com/Sohila-Khaled-Abbas/home-services-lead-intelligence)** · 2026-11-05<br>
-  Source code, documentation, and project notes.
-
 - **[forage-excel-skills-job-simulation](https://github.com/Sohila-Khaled-Abbas/forage-excel-skills-job-simulation)** · 2026-11-04<br>
   Learning notes and original evidence from the Forage Academy Excel Skills virtual experience program.
-
-- **[streampulse](https://github.com/Sohila-Khaled-Abbas/streampulse)** · 2026-11-01<br>
-  Live Netflix Catalog &amp; Audience Intelligence ELT Pipeline
 
 <sub>Public repository updates, newest first. Dates are UTC; activity does not imply project completion.</sub>
 
@@ -235,7 +236,7 @@ I document what I build and share practical notes through **The Data Tea**, road
   Data Engineering Diploma \(Data Pill Academy\) - Big Data Lab 2: Hive Internal vs. External Tables &amp; Non-Transactional SCD Type 2 Architecture
 
 - **[home-services-lead-intelligence](https://github.com/Sohila-Khaled-Abbas/home-services-lead-intelligence)**<br>
-  Source code, documentation, and project notes.
+  A provenance-first public business-data discovery pipeline for Egypt's home-services market.
 
 - **[HR-Analytics-Dashboard](https://github.com/Sohila-Khaled-Abbas/HR-Analytics-Dashboard)** · [Website](https://app.powerbi.com/view?r=eyJrIjoiMTgxZTY2NmMtNzA5ZS00Y2FlLWIxNzgtMDM2MWY0ZTIzZjczIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)<br>
   Interactive Power BI dashboard for HR analytics, providing actionable insights into employee attendance and leave patterns. Features dynamic filters, DAX measures, and visually engaging reports for…
