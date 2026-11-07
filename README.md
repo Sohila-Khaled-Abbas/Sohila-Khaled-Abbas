@@ -122,6 +122,9 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
+- **[n8n Queue &amp; Worker Stack](https://github.com/Sohila-Khaled-Abbas/n8n-production-queue-setup)** · 2026-11-07 · **In progress**<br>
+  A production-grade, self-hosted n8n deployment with queue-mode scaling, PostgreSQL persistence, and an isolated Python/JavaScript code execution sidecar.
+
 - **[streampulse](https://github.com/Sohila-Khaled-Abbas/streampulse)** · 2026-11-07<br>
   Live Netflix Catalog &amp; Audience Intelligence ELT Pipeline
 
@@ -133,9 +136,6 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 - **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-07<br>
   An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
-
-- **[flyrank-ml-internship-starter](https://github.com/Sohila-Khaled-Abbas/flyrank-ml-internship-starter)** · 2026-11-06<br>
-  Official portfolio, applied machine learning research paper, and autonomous decision-support agent for Sohila Khaled Abbas \(Applied ML Intern &amp; Search Intelligence Engineer at FlyRank AI \| BI Developer\).
 
 <sub>Public repository updates, newest first. Dates are UTC; activity does not imply project completion.</sub>
 
