@@ -122,20 +122,20 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ## Latest project updates
 
+- **[streampulse](https://github.com/Sohila-Khaled-Abbas/streampulse)** · 2026-11-07<br>
+  Live Netflix Catalog &amp; Audience Intelligence ELT Pipeline
+
+- **[world-economy-bi-project](https://github.com/Sohila-Khaled-Abbas/world-economy-bi-project)** · 2026-11-07<br>
+  A data-driven one-page report on the state of the global economy using World Bank and UN HDI datasets.
+
+- **[powerbi-data-analysis-diploma](https://github.com/Sohila-Khaled-Abbas/powerbi-data-analysis-diploma)** · 2026-11-07<br>
+  Comprehensive learning repository and documentation hub for the 81-lecture Microsoft Power BI Data Analysis Diploma by Eng. Essam Elsayed \(MCT\). Includes organized datasets, Power Query M code cheatsheet, and…
+
 - **[apple-stock-market-analysis](https://github.com/Sohila-Khaled-Abbas/apple-stock-market-analysis)** · 2026-11-07<br>
   An end-to-end data engineering and analytics project analyzing historical Apple Inc. \(AAPL\) stock market data up to the present day, to extract actionable business insights and investment strategies.
 
 - **[flyrank-ml-internship-starter](https://github.com/Sohila-Khaled-Abbas/flyrank-ml-internship-starter)** · 2026-11-06<br>
   Official portfolio, applied machine learning research paper, and autonomous decision-support agent for Sohila Khaled Abbas \(Applied ML Intern &amp; Search Intelligence Engineer at FlyRank AI \| BI Developer\).
-
-- **[home-services-lead-intelligence](https://github.com/Sohila-Khaled-Abbas/home-services-lead-intelligence)** · 2026-11-06<br>
-  A provenance-first public business-data discovery pipeline for Egypt's home-services market.
-
-- **[powerbi-data-analysis-diploma](https://github.com/Sohila-Khaled-Abbas/powerbi-data-analysis-diploma)** · 2026-11-05<br>
-  Comprehensive learning repository and documentation hub for the 81-lecture Microsoft Power BI Data Analysis Diploma by Eng. Essam Elsayed \(MCT\). Includes organized datasets, Power Query M code cheatsheet, and…
-
-- **[forage-excel-skills-job-simulation](https://github.com/Sohila-Khaled-Abbas/forage-excel-skills-job-simulation)** · 2026-11-04<br>
-  Learning notes and original evidence from the Forage Academy Excel Skills virtual experience program.
 
 <sub>Public repository updates, newest first. Dates are UTC; activity does not imply project completion.</sub>
 
