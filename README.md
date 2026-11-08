@@ -19,7 +19,7 @@ Damietta, Egypt · Open to remote collaboration
 
 ## Hey, I’m Sohila
 
-I’m a BI Developer with nearly two years of freelance experience turning business questions into reliable Power BI dashboards and reporting. My work spans sales and retail performance, churn, supply chain, e-commerce, customer satisfaction, marketing, HR, and healthcare. I work from data preparation and validation through SQL and Power Query transformations, dimensional modeling, KPI definitions, and interactive report design—because the numbers behind a dashboard matter as much as the visuals.
+I’m a BI Developer with nearly two years of freelance experience turning business questions into reliable Power BI dashboards and reporting. My work spans sales and retail performance, churn, supply chain, e-commerce, customer satisfaction, marketing, HR, and healthcare. I work from data preparation and validation through SQL and Power Query transformations, dimensional modeling, KPI definitions, and interactive report design—because the numbers behind a dashboard matter as much as the visuals. I also hold a BSc.
 
 I like starting with the question behind the numbers, checking whether the data deserves our trust, and only then deciding what the dashboard should say.
 
