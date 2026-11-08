@@ -479,7 +479,7 @@ Stack: Python • PostgreSQL • SciPy • Statistical Inference
 
 ---
 
-## 📜 Certifications, Education & Languages
+## 📜 Certifications & Languages
 
 <table>
 <tr>
@@ -489,9 +489,6 @@ Stack: Python • PostgreSQL • SciPy • Statistical Inference
 - 🎖️ **Data Warehouse – The Ultimate Guide**
 - 🎖️ **Power BI Desktop Specialist**
 
-### 🎓 Education
-- 🏛️ **Damietta University** — *B.Sc., Agriculture*
-- 🗓️ *October 2020 – July 2024*
 
 </td>
 <td width="50%" valign="top">

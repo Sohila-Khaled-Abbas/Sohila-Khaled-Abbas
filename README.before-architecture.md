@@ -85,9 +85,9 @@ I enjoy simplifying complex workflows, improving reporting reliability, and help
 
 </div>
 
-## Credentials
+## Continued learning
 
-- **B.Sc. in Agricultural Sciences**, Damietta University, 2024
+My ongoing learning spans business intelligence, SQL, Python, analytics engineering, data quality, and workflow automation.
 - DataCamp Data Analyst / Scientist / Engineer Associate and Data Literacy certificates
 - Cisco Data Analytics Essentials
 - HackerRank SQL and Python certificates
