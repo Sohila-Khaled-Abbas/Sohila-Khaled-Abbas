@@ -5,47 +5,63 @@
 
 {{INTRO}}
 
+<p><strong>Nearly 2 years building BI solutions</strong> · Power BI dashboards · Reporting · Analytics projects</p>
+
 </div>
+
+## Hey, I’m Sohila
 
 {{ABOUT}}
 
-## What I build
+I like starting with the question behind the numbers, checking whether the data deserves our trust, and only then deciding what the dashboard should say. My work is BI-led, but I enjoy connecting the full reporting journey—from source data and KPI logic to a clear report someone can act on.
 
-- **Data analysis:** SQL, Python, data cleaning, exploratory analysis, validation, and clear communication of findings.
-- **Business intelligence:** Power BI reports and semantic models, DAX measures, Power Query transformations, Excel analysis, and KPI reporting.
-- **Analytics foundations:** ETL/ELT workflows, dimensional modeling, and data warehousing that support consistent, traceable reporting.
-- **Complementary areas:** Workflow automation, API integrations, and applied machine-learning projects.
+## What I work on
 
-## Currently building
+- **BI & reporting:** Power BI dashboards, DAX, Power Query, KPI design, and Excel reporting.
+- **Analytics projects:** retail performance and churn, Egyptian Cosmetics, supply chain, customer support, and PixelFed.
+- **Data & automation:** SQL, Python, dimensional modeling, ETL/ELT, Excel VBA, and workflow automation.
 
-{{CURRENT}}
-
-## Selected projects
+## Selected work
 
 {{FEATURED}}
 
-## My toolkit
+## What I’m building now
+
+{{CURRENT}}
+
+## Tools I use
 
 {{SKILLS}}
 
-## Learning in the open
+## The Data Tea ☕
 
-I document what I build and share practical notes through **The Data Tea**, roadmaps, and technical labs. Alongside my core focus in data analysis and BI development, I continue exploring analytics engineering, production AI, and customer-facing technical delivery.
+I share practical notes, learning resources, and the thinking behind my work through **The Data Tea**. I believe good data work should be understandable, reusable, and useful beyond the person who built it.
 
 {{LEARNING}}
 
+<details>
+<summary><strong>Experience & continued learning</strong></summary>
+
 {{BACKGROUND}}
 
-## Latest project updates
+</details>
+
+<details>
+<summary><strong>Recent project activity</strong></summary>
 
 {{RECENT}}
 
-{{CATALOG}}
-
-## Activity
+</details>
 
 <details>
-<summary><strong>Contribution metrics & animations</strong></summary>
+<summary><strong>More projects</strong></summary>
+
+{{CATALOG}}
+
+</details>
+
+<details>
+<summary><strong>GitHub activity & contribution animation</strong></summary>
 
 <img src="./assets/metrics.svg" alt="GitHub contribution and language metrics" width="100%" />
 
@@ -63,4 +79,4 @@ I document what I build and share practical notes through **The Data Tea**, road
 
 ---
 
-<sub>Bio, toolkit, training, project statuses, and public projects sync hourly from my portfolio and GitHub. [How the automation works](docs/PROFILE_AUTOMATION.md) · [Refresh workflow](https://github.com/Sohila-Khaled-Abbas/Sohila-Khaled-Abbas/actions/workflows/sync-profile.yml)</sub>
+<sub>Profile content syncs from my portfolio and public GitHub projects. [How it works](docs/PROFILE_AUTOMATION.md) · [Refresh workflow](https://github.com/Sohila-Khaled-Abbas/Sohila-Khaled-Abbas/actions/workflows/sync-profile.yml)</sub>

@@ -12,32 +12,28 @@
   ],
   "featured": [
     {
-      "repo": "python-learning-roadmap",
-      "title": "Python Learning Roadmap"
+      "repo": "fmcg-sales-churn-drop-analysis-powerbi",
+      "title": "B2B Retail Performance & Churn"
+    },
+    {
+      "repo": "egyptian-cosmetics-market",
+      "title": "Egyptian Cosmetics Analytics"
+    },
+    {
+      "repo": "forage-excel-skills-job-simulation",
+      "title": "Forage Excel Skills Simulation"
     },
     {
       "repo": "pixelfed-analytics-engineering",
       "title": "PixelFed Analytics Engineering"
     },
     {
-      "repo": "egyptian-cosmetics-market",
-      "title": "Egyptian Cosmetics Analytics Engineering"
-    },
-    {
-      "repo": "n8n-production-queue-setup",
-      "title": "n8n Queue & Worker Stack"
-    },
-    {
-      "repo": "fmcg-sales-churn-drop-analysis-powerbi",
-      "title": "B2B Retail Analytics & Churn"
-    },
-    {
       "repo": "kickstarter-analytics-engineering",
       "title": "Kickstarter Analytics Engineering"
     },
     {
-      "repo": "forward-deployed-engineer-roadmap",
-      "title": "Forward Deployed Engineer Roadmap"
+      "repo": "n8n-production-queue-setup",
+      "title": "n8n Workflow Automation"
     }
   ],
   "learning": [
@@ -84,4 +80,3 @@
     ]
   }
 }
-

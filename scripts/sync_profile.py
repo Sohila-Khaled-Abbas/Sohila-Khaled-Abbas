@@ -101,8 +101,6 @@ def validate_sources(profile: dict, details: dict, statuses: dict) -> None:
         raise ValueError("Portfolio skills are incomplete.")
     if not isinstance(profile.get("training"), list) or not isinstance(profile.get("experience"), list):
         raise ValueError("Portfolio learning or experience is incomplete.")
-    if not isinstance(profile.get("education"), dict) or not profile["education"].get("degree"):
-        raise ValueError("Portfolio education is incomplete.")
     if not isinstance(details, dict) or not isinstance(details.get("projects"), list):
         raise ValueError("Portfolio project details are incomplete.")
     if not isinstance(statuses, dict) or any(not isinstance(item, dict) for item in statuses.values()):
@@ -209,12 +207,10 @@ def render(profile: dict, repositories: list[dict], details: dict, statuses: dic
         blocks["LEARNING"] += (f'\n\n<details>\n<summary><strong>More learning repositories · {len(discovered)} automatically discovered</strong></summary>\n\n'
                                + "\n\n".join(extra) + "\n\n</details>")
 
-    education = profile["education"]
-    blocks["BACKGROUND"] = '<details>\n<summary><strong>Background, experience & training</strong></summary>\n\n'
-    blocks["BACKGROUND"] += f'**{text(education["degree"])}** · {text(education.get("institution"))} · {text(education.get("year"))}\n\n'
-    blocks["BACKGROUND"] += "### Experience\n\n" + "\n".join(f'- **{text(item["role"])}** · {text(item["organization"])} · {text(item["dates"])}' for item in profile["experience"])
-    blocks["BACKGROUND"] += "\n\n### Training\n\n" + "\n".join(f'- **{text(item["title"])}** · {text(item["provider"])} · {text(item["date"])}' for item in profile["training"])
-    blocks["BACKGROUND"] += f'\n\n{link("Full résumé", portfolio + "/resume/")} · {link("Courses & credentials", portfolio + "/credentials/")}\n\n</details>'
+    blocks["BACKGROUND"] = "### Professional experience\\n\\n"
+    blocks["BACKGROUND"] += "\\n".join(f'- **{text(item["role"])}** · {text(item["organization"])} · {text(item["dates"])}' for item in profile["experience"])
+    blocks["BACKGROUND"] += "\\n\\n### Selected training\\n\\n" + "\\n".join(f'- **{text(item["title"])}** · {text(item["provider"])} · {text(item["date"])}' for item in profile["training"])
+    blocks["BACKGROUND"] += f'\\n\\n{link("Full experience & skills", portfolio + "/resume/")} · {link("Courses & credentials", portfolio + "/credentials/")}'
 
     # Infrastructure synchronization commits must not bounce between profile and
     # portfolio. Exclude both repositories from the activity ranking.
