@@ -5,7 +5,7 @@
 
 # Sohila Khaled Abbas
 
-### Data Analyst &amp; BI Developer \| SQL, Python, Power BI, DAX &amp; Power Query \| ETL/ELT &amp; Analytics Engineering
+### Data Analyst &amp; BI Developer
 
 <p><a href="https://sohila-khaled-abbas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-79515D?style=flat-square" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sohilakabbas"><img src="https://img.shields.io/badge/LinkedIn-5F514A?style=flat-square" alt="LinkedIn" /></a>
